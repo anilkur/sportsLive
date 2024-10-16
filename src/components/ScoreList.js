@@ -6,9 +6,22 @@ const ScoreList = () => {
   const [matches, setMatches] = useState([]);
 
   useEffect(() => {
-    fetch("https://www.thesportsdb.com/api/v1/json/1/eventspastleague.php?id=4328")
+    fetch("https://live-world-futbol-news.p.rapidapi.com/news/eurosport", {
+      method: 'GET',
+      headers: {
+        'x-rapidapi-host': 'live-world-futbol-news.p.rapidapi.com',
+        'x-rapidapi-key': '8e8493381emshdb19a983e2e5f08p12b8eajs457369bc1634'
+      }
+    })
       .then(response => response.json())
-      .then(data => setMatches(data.events))
+      .then(data => {
+        // `data`'nın hangi formatta olduğunu kontrol edelim ve dizi olarak ayarlayalım
+        if (Array.isArray(data)) {
+          setMatches(data);
+        } else {
+          console.error("Beklenen dizi değil:", data);
+        }
+      })
       .catch(error => console.error("Veri çekme hatası:", error));
   }, []);
 
@@ -18,12 +31,10 @@ const ScoreList = () => {
       {matches.length === 0 ? (
         <p>Yükleniyor...</p>
       ) : (
-        matches.map(match => (
-          <div key={match.idEvent} className="score-item">
-            <h2>{match.strEvent}</h2>
-            <p>Skor: {match.intHomeScore} - {match.intAwayScore}</p>
-            <p>Tarih: {match.dateEvent}</p>
-            <Link to={`/match/${match.idEvent}`}>
+        matches.map((match, index) => (
+          <div key={index} className="score-item">
+            <h2>{match.title || "Başlık yok"}</h2>
+            <Link to={`/match/${index}`}>
               <button>Detaya Git</button>
             </Link>
           </div>
