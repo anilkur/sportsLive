@@ -1,10 +1,13 @@
 import React from 'react';
-import ScoreList from '../components/ScoreList';
+import MatchCard from '../components/MatchCard';
 
-const HomePage = () => {
+const HomePage = ({ matches }) => {
   return (
     <div>
-      <ScoreList />
+      <h1>Spor Sonuçları</h1>
+      {matches.map(match => (
+        <MatchCard key={match.id} match={match} />
+      ))}
     </div>
   );
 };

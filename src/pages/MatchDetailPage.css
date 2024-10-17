@@ -1,0 +1,108 @@
+/* Ana container */
+.match-detail-container {
+  padding: 20px;
+  border: 1px solid #3f9842;
+  border-radius: 8px;
+  background-color: #ffffff;
+  margin: 20px;
+}
+
+/* Başlık */
+.match-detail-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.match-detail-header h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+/* Takım logoları ve isimleri */
+.team-logos {
+  display: flex;
+  align-items: center;
+}
+
+.team-logo {
+  width: 50px;
+  height: auto;
+  margin: 0 10px;
+}
+
+/* Maç bilgileri */
+.match-info {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+}
+
+.match-info p {
+  margin: 5px 0;
+}
+
+/* Takım Kadroları */
+.team-lineups {
+  margin: 20px 0;
+}
+
+.team-lineups h3 {
+  margin-bottom: 10px;
+  font-size: 1.4rem;
+}
+
+/* Kadro listesi */
+.team-players {
+  list-style: none;
+  padding-left: 0;
+}
+
+.team-players li {
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+}
+
+/* Gol dakikaları */
+.goals {
+  margin: 20px 0;
+}
+
+/* Maç İstatistikleri */
+.match-stats {
+  margin: 20px 0;
+}
+
+.match-stats h3 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+/* Hakem bilgisi */
+.referee-info {
+  margin: 20px 0;
+}
+
+/* Stadyum ve Hava durumu */
+.stadium-weather {
+  margin: 20px 0;
+}
+
+.stadium-weather h3 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+/* Kritik Olaylar */
+.critical-events {
+  margin-top: 20px;
+}
+
+.critical-events h3 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.critical-events p {
+  margin: 5px 0;
+}

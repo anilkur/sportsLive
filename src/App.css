@@ -1,13 +1,70 @@
+/* Renk paleti */
+:root {
+  --primary-color: #4caf50;  /* Yeşil (Ana Renk) */
+  --secondary-color: #ffffff;  /* Beyaz */
+  --accent-color: #ff5722;  /* Turuncu (Butonlar ve vurgular için) */
+  --text-color: #333333;  /* Koyu Gri */
+  --background-color: #f5f5f5;  /* Açık Gri (Arka plan) */
+}
+
+/* Genel sayfa stili */
 body {
   font-family: 'Arial', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
   margin: 0;
   padding: 0;
 }
 
-h1, h3 {
-  margin: 0;
+/* Header ve Footer stili */
+.header, .footer {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
-.App {
-  text-align: center;
+/* Kart ve butonlar için yumuşak hatlar */
+button, .card {
+  border-radius: 8px;  /* Yumuşak köşeler */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Hafif gölge efekti */
+  transition: all 0.3s ease-in-out;  /* Hover efektleri için geçiş */
 }
+
+button {
+  background-color: var(--accent-color);
+  color: var(--secondary-color);
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: var(--primary-color);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);  /* Hover durumunda gölgeyi artır */
+}
+
+.card {
+  background-color: var(--secondary-color);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+}
+
+.card h2 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
+
+/* Sayfa genelinde elementler */
+.container {
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  color: var(--primary-color);
+}
+

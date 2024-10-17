@@ -1,14 +1,37 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import './MatchCard.css';  // CSS dosyasını buradan import ediyoruz
 
-const MatchCard = ({ homeTeam, awayTeam, score, date }) => {
+const MatchCard = ({ match }) => {
+  const {
+    homeTeam,
+    awayTeam,
+    homeLogo,
+    awayLogo,
+    score,
+    date,
+    time,
+    tournament,
+    status
+  } = match;
+
   return (
-    <div style={{
-      border: '1px solid #ddd', padding: '1rem', margin: '1rem 0',
-      borderRadius: '8px', backgroundColor: '#f9f9f9'
-    }}>
-      <h3>{homeTeam} vs {awayTeam}</h3>
+    <div className="match-card">
+      <div className="teams-info">
+        <div className="teams">
+          <img src={homeLogo} alt={homeTeam} className="team-logo" />
+          <h3>{homeTeam} vs {awayTeam}</h3>
+          <img src={awayLogo} alt={awayTeam} className="team-logo" />
+        </div>
+      </div>
       <p>Skor: {score}</p>
-      <p>Tarih: {date}</p>
+      <p>Tarih ve Saat: {date} {time}</p>
+      <p>Turnuva: {tournament}</p>
+      <p>Durum: {status}</p>
+
+      <Link to={`/match/${match.id}`}>
+        <button className="details-button">Detaya Git</button>
+      </Link>
     </div>
   );
 };

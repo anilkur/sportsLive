@@ -1,0 +1,49 @@
+/* match-card stili */
+.match-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Takım logoları ve takım ismi */
+  .teams-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
+  .teams {
+    display: flex;
+    align-items: center;
+  }
+  
+  .team-logo {
+    width: 50px;
+    margin: 0 10px;
+  }
+  
+  h3 {
+    color: #4caf50; /* Ana renk */
+    margin: 0;
+  }
+  
+  /* Detaya git butonu */
+  .details-button {
+    background-color: #ff5722; /* Vurgu rengi */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .details-button:hover {
+    background-color: #4caf50; /* Ana renge hover */
+  }
+  

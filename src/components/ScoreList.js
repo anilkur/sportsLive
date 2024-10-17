@@ -3,26 +3,16 @@ import { Link } from 'react-router-dom';
 import './scoreList.css';
 
 const ScoreList = () => {
-  const [matches, setMatches] = useState([]);
+  // Sabit örnek veriler
+  const [matches, setMatches] = useState([
+    { id: 1, homeTeam: "Barcelona", awayTeam: "Real Madrid", score: "2-1", date: "2024-10-17" },
+    { id: 2, homeTeam: "Liverpool", awayTeam: "Manchester City", score: "3-3", date: "2024-10-18" },
+    { id: 3, homeTeam: "Juventus", awayTeam: "Inter Milan", score: "1-0", date: "2024-10-19" }
+  ]);
 
+  // useEffect kısmını boş bırakabiliriz çünkü API ile çalışmıyoruz.
   useEffect(() => {
-    fetch("https://live-world-futbol-news.p.rapidapi.com/news/eurosport", {
-      method: 'GET',
-      headers: {
-        'x-rapidapi-host': 'live-world-futbol-news.p.rapidapi.com',
-        'x-rapidapi-key': '8e8493381emshdb19a983e2e5f08p12b8eajs457369bc1634'
-      }
-    })
-      .then(response => response.json())
-      .then(data => {
-        // `data`'nın hangi formatta olduğunu kontrol edelim ve dizi olarak ayarlayalım
-        if (Array.isArray(data)) {
-          setMatches(data);
-        } else {
-          console.error("Beklenen dizi değil:", data);
-        }
-      })
-      .catch(error => console.error("Veri çekme hatası:", error));
+    // Burada veri fetch yapmamıza gerek yok çünkü sabit verilerle çalışıyoruz.
   }, []);
 
   return (
@@ -31,10 +21,12 @@ const ScoreList = () => {
       {matches.length === 0 ? (
         <p>Yükleniyor...</p>
       ) : (
-        matches.map((match, index) => (
-          <div key={index} className="score-item">
-            <h2>{match.title || "Başlık yok"}</h2>
-            <Link to={`/match/${index}`}>
+        matches.map((match) => (
+          <div key={match.id} className="score-item">
+            <h2>{match.homeTeam} vs {match.awayTeam}</h2>
+            <p>Skor: {match.score}</p>
+            <p>Tarih: {match.date}</p>
+            <Link to={`/match/${match.id}`}>
               <button>Detaya Git</button>
             </Link>
           </div>
