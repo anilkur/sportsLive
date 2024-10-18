@@ -2,7 +2,7 @@
 .match-detail-grid {
   display: grid;
   grid-template-columns: 1fr 2fr 2fr;
-  grid-template-rows: auto auto auto auto;
+  grid-template-rows: auto auto auto auto auto;
   gap: 1rem;
   padding: 1.5rem;
 }
@@ -10,6 +10,7 @@
 /* Takım isimleri başlık kısmı */
 .team-names {
   grid-column: 1 / span 3;
+  grid-row: 1;
   text-align: center;
   background-color: #e9f5e9;
   padding: 1rem;
@@ -20,6 +21,7 @@
 /* Skor kısmı */
 .score {
   grid-column: 1 / 2;
+  grid-row: 2;
   background-color: #f3f4f6;
   padding: 1rem;
   border-radius: 8px;
@@ -29,6 +31,7 @@
 /* Maç İstatistikleri */
 .match-stats {
   grid-column: 1 / 2;
+  grid-row: 3;
   background-color: #f3f4f6;
   padding: 1rem;
   border-radius: 8px;
@@ -37,7 +40,8 @@
 
 /* Takım kadroları */
 .lineups {
-  grid-column: 2 / span 3;
+  grid-column: 2 / 4; /* 2'den 3'e kadar sütunları kapsar */
+  grid-row: 2 / 4;    /* 2'den 3'e kadar satırları kapsar */
   display: flex;
   justify-content: space-between;
   background-color: #ffffff;
@@ -50,58 +54,31 @@
   width: 48%;
 }
 
-/* Gol Dakikaları: Bu kısmı alta taşıyoruz */
+/* Gol Dakikaları */
 .goal-times {
-  grid-column: 2 /  5;
+  grid-column: 1 / span 3;
+  grid-row: 4;
   background-color: #f3f4f6;
   padding: 1.5rem;
   border-radius: 8px;
+  text-align: center;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-top: 1.5rem; /* Alt kısma yerleşmesi için boşluk */
-  text-align: center; /* Metinlerin ortalanması */
 }
 
 .goal-times {
-  height: 170px; /* Yüksekliği arttır */
+  height: 170px;
   background-color: #f9f9f9;
   padding: 10px;
   border-radius: 8px;
 }
-
 
 /* Hakem bilgileri */
 .referee-info {
-  grid-column: 1 / 2;
+  grid-column: 1 / span 3;
+  grid-row: 5;
   background-color: #f9fafb;
   padding: 3rem;
   border-radius: 8px;
+  text-align: center;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-.referee-info {
-  height: 10 px; /* Yüksekliği artırmak için bu değeri değiştir */
-  background-color: #f9f9f9; /* İsteğe bağlı arka plan rengi */
-  padding: 0.5px; /* İç kenarlık (padding) */
-  border-radius: 8px; /* Köşeleri yuvarlatmak için */
-}
-.referee-info {
-  margin-top:-230px; /* Üstten boşluğu azaltarak kutuyu yukarı çek */
-  padding: 5px;
-  background-color: #f9f9f9;
-  border-radius: 8px;
-}
-.referee-info {
-  position: relative;
-  top: 1px; /* Yukarı çekmek için negatif bir değer ver */
-  padding: 10px;
-  background-color: #f9f9f9;
-  border-radius: 8px;
-}
-.referee-info {
-  min-width: 250px;  /* Minimum genişlik */
-  max-width: 700px;  /* Maksimum genişlik */
-  min-height:100px;  /* Minimum yükseklik */
-  max-height: 180px; /* Maksimum yükseklik */
-}
-.referee-info {
-  margin-top: -10; /* Üst boşluğu sıfırla veya küçült */
 }
