@@ -1,0 +1,6812 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "2-1",
+      "date": "2024-10-01",
+      "time": "18:00",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 23,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        },
+        {
+          "minute": 67,
+          "player": "Oyuncu A2",
+          "team": "Takım A"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "55%",
+          "away": "45%"
+        },
+        "shots": {
+          "home": 10,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 4
+        },
+        "corners": {
+          "home": 6,
+          "away": 3
+        },
+        "fouls": {
+          "home": 12,
+          "away": 14
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 1,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 1",
+      "stadium": "Stadyum 1",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu A3 sakatlandı",
+        "Oyuncu B4 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 2,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "1-1",
+      "date": "2024-10-02",
+      "time": "19:00",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 30,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 60,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "50%",
+          "away": "50%"
+        },
+        "shots": {
+          "home": 8,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 4
+        },
+        "corners": {
+          "home": 4,
+          "away": 4
+        },
+        "fouls": {
+          "home": 10,
+          "away": 10
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 2,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 2",
+      "stadium": "Stadyum 2",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu A5 sarı kart gördü",
+        "Oyuncu B6 sakatlandı"
+      ]
+    },
+    {
+      "id": 3,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "0-0",
+      "date": "2024-10-03",
+      "time": "20:00",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [],
+      "stats": {
+        "possession": {
+          "home": "48%",
+          "away": "52%"
+        },
+        "shots": {
+          "home": 7,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 5
+        },
+        "corners": {
+          "home": 5,
+          "away": 6
+        },
+        "fouls": {
+          "home": 11,
+          "away": 13
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 1,
+          "away": 3
+        }
+      },
+      "referee": "Hakem 3",
+      "stadium": "Stadyum 3",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu A7 kırmızı kart gördü",
+        "Oyuncu B8 sakatlandı"
+      ]
+    },
+    {
+      "id": 4,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "3-0",
+      "date": "2024-10-04",
+      "time": "21:00",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 10,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 50,
+          "player": "Oyuncu A2",
+          "team": "Takım A"
+        },
+        {
+          "minute": 80,
+          "player": "Oyuncu A3",
+          "team": "Takım A"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "70%",
+          "away": "30%"
+        },
+        "shots": {
+          "home": 14,
+          "away": 4
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 1
+        },
+        "corners": {
+          "home": 9,
+          "away": 2
+        },
+        "fouls": {
+          "home": 16,
+          "away": 8
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "referee": "Hakem 4",
+      "stadium": "Stadyum 4",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu A4 sarı kart gördü",
+        "Oyuncu B5 sakatlandı"
+      ]
+    },
+    {
+      "id": 5,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "1-2",
+      "date": "2024-10-05",
+      "time": "18:30",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 20,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 55,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu B2",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "48%",
+          "away": "52%"
+        },
+        "shots": {
+          "home": 9,
+          "away": 11
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 6
+        },
+        "corners": {
+          "home": 5,
+          "away": 7
+        },
+        "fouls": {
+          "home": 11,
+          "away": 13
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 1,
+          "away": 3
+        }
+      },
+      "referee": "Hakem 5",
+      "stadium": "Stadyum 5",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu A6 sakatlandı",
+        "Oyuncu B7 kırmızı kart gördü"
+      ]
+    },
+    {
+      "id": 6,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "0-3",
+      "date": "2024-10-06",
+      "time": "19:30",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 12,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        },
+        {
+          "minute": 34,
+          "player": "Oyuncu B2",
+          "team": "Takım B"
+        },
+        {
+          "minute": 58,
+          "player": "Oyuncu B3",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "40%",
+          "away": "60%"
+        },
+        "shots": {
+          "home": 7,
+          "away": 12
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 7
+        },
+        "corners": {
+          "home": 3,
+          "away": 8
+        },
+        "fouls": {
+          "home": 9,
+          "away": 16
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 0,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 6",
+      "stadium": "Stadyum 6",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu A9 sakatlandı",
+        "Oyuncu B10 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 7,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "1-0",
+      "date": "2024-10-07",
+      "time": "20:30",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 50,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "53%",
+          "away": "47%"
+        },
+        "shots": {
+          "home": 11,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 4
+        },
+        "corners": {
+          "home": 7,
+          "away": 5
+        },
+        "fouls": {
+          "home": 14,
+          "away": 12
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "referee": "Hakem 7",
+      "stadium": "Stadyum 7",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu A2 sarı kart gördü",
+        "Oyuncu B4 kırmızı kart gördü"
+      ]
+    },
+    {
+      "id": 8,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "0-0",
+      "date": "2024-10-08",
+      "time": "21:00",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [],
+      "stats": {
+        "possession": {
+          "home": "49%",
+          "away": "51%"
+        },
+        "shots": {
+          "home": 6,
+          "away": 10
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 5
+        },
+        "corners": {
+          "home": 4,
+          "away": 7
+        },
+        "fouls": {
+          "home": 10,
+          "away": 14
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 1,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 8",
+      "stadium": "Stadyum 8",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu A5 sakatlandı",
+        "Oyuncu B7 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 9,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "1-3",
+      "date": "2024-10-09",
+      "time": "18:00",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 22,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 35,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        },
+        {
+          "minute": 50,
+          "player": "Oyuncu B2",
+          "team": "Takım B"
+        },
+        {
+          "minute": 78,
+          "player": "Oyuncu B3",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "45%",
+          "away": "55%"
+        },
+        "shots": {
+          "home": 8,
+          "away": 12
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 6
+        },
+        "corners": {
+          "home": 5,
+          "away": 9
+        },
+        "fouls": {
+          "home": 12,
+          "away": 16
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 1,
+          "away": 3
+        }
+      },
+      "referee": "Hakem 9",
+      "stadium": "Stadyum 9",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu A2 sakatlandı",
+        "Oyuncu B4 kırmızı kart gördü"
+      ]
+    },
+    {
+      "id": 10,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "4-1",
+      "date": "2024-10-10",
+      "time": "19:30",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 5,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 25,
+          "player": "Oyuncu A2",
+          "team": "Takım A"
+        },
+        {
+          "minute": 40,
+          "player": "Oyuncu A3",
+          "team": "Takım A"
+        },
+        {
+          "minute": 55,
+          "player": "Oyuncu A4",
+          "team": "Takım A"
+        },
+        {
+          "minute": 70,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "65%",
+          "away": "35%"
+        },
+        "shots": {
+          "home": 15,
+          "away": 5
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 2
+        },
+        "corners": {
+          "home": 10,
+          "away": 2
+        },
+        "fouls": {
+          "home": 18,
+          "away": 10
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 1
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "referee": "Hakem 10",
+      "stadium": "Stadyum 10",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu A5 kırmızı kart gördü",
+        "Oyuncu B6 sakatlandı"
+      ]
+    },
+    {
+      "id": 11,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "2-2",
+      "date": "2024-10-11",
+      "time": "18:00",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 20,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 35,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        },
+        {
+          "minute": 50,
+          "player": "Oyuncu A2",
+          "team": "Takım A"
+        },
+        {
+          "minute": 65,
+          "player": "Oyuncu B2",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "52%",
+          "away": "48%"
+        },
+        "shots": {
+          "home": 10,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 4
+        },
+        "corners": {
+          "home": 7,
+          "away": 6
+        },
+        "fouls": {
+          "home": 14,
+          "away": 12
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 1,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 11",
+      "stadium": "Stadyum 11",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu A3 sarı kart gördü",
+        "Oyuncu B5 kırmızı kart gördü"
+      ]
+    },
+    {
+      "id": 12,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "0-1",
+      "date": "2024-10-12",
+      "time": "19:00",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 50,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "43%",
+          "away": "57%"
+        },
+        "shots": {
+          "home": 7,
+          "away": 10
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 5
+        },
+        "corners": {
+          "home": 5,
+          "away": 8
+        },
+        "fouls": {
+          "home": 11,
+          "away": 15
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 2,
+          "away": 1
+        }
+      },
+      "referee": "Hakem 12",
+      "stadium": "Stadyum 12",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu A4 sakatlandı",
+        "Oyuncu B6 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 13,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "2-2",
+      "date": "2024-10-13",
+      "time": "20:00",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 18,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 33,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        },
+        {
+          "minute": 48,
+          "player": "Oyuncu A2",
+          "team": "Takım A"
+        },
+        {
+          "minute": 72,
+          "player": "Oyuncu B2",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "50%",
+          "away": "50%"
+        },
+        "shots": {
+          "home": 9,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 4
+        },
+        "corners": {
+          "home": 6,
+          "away": 6
+        },
+        "fouls": {
+          "home": 13,
+          "away": 13
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "referee": "Hakem 13",
+      "stadium": "Stadyum 13",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu A5 sarı kart gördü",
+        "Oyuncu B6 sakatlandı"
+      ]
+    },
+    {
+      "id": 14,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "1-4",
+      "date": "2024-10-14",
+      "time": "18:30",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 25,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 30,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu B2",
+          "team": "Takım B"
+        },
+        {
+          "minute": 60,
+          "player": "Oyuncu B3",
+          "team": "Takım B"
+        },
+        {
+          "minute": 80,
+          "player": "Oyuncu B4",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "35%",
+          "away": "65%"
+        },
+        "shots": {
+          "home": 6,
+          "away": 14
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 7
+        },
+        "corners": {
+          "home": 3,
+          "away": 10
+        },
+        "fouls": {
+          "home": 9,
+          "away": 20
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 0,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 14",
+      "stadium": "Stadyum 14",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu A2 sakatlandı",
+        "Oyuncu B5 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 15,
+      "homeTeam": "Takım A",
+      "awayTeam": "Takım B",
+      "homeLogo": "https://via.placeholder.com/50?text=Takım+A",
+      "awayLogo": "https://via.placeholder.com/50?text=Takım+B",
+      "score": "4-1",
+      "date": "2024-10-15",
+      "time": "20:30",
+      "tournament": "Lig 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu A1",
+        "Oyuncu A2",
+        "Oyuncu A3",
+        "Oyuncu A4",
+        "Oyuncu A5",
+        "Oyuncu A6",
+        "Oyuncu A7",
+        "Oyuncu A8",
+        "Oyuncu A9",
+        "Oyuncu A10",
+        "Oyuncu A11"
+      ],
+      "awayLineup": [
+        "Oyuncu B1",
+        "Oyuncu B2",
+        "Oyuncu B3",
+        "Oyuncu B4",
+        "Oyuncu B5",
+        "Oyuncu B6",
+        "Oyuncu B7",
+        "Oyuncu B8",
+        "Oyuncu B9",
+        "Oyuncu B10",
+        "Oyuncu B11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu A12",
+        "Oyuncu A13",
+        "Oyuncu A14",
+        "Oyuncu A15",
+        "Oyuncu A16"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu B12",
+        "Oyuncu B13",
+        "Oyuncu B14",
+        "Oyuncu B15",
+        "Oyuncu B16"
+      ],
+      "goals": [
+        {
+          "minute": 5,
+          "player": "Oyuncu A1",
+          "team": "Takım A"
+        },
+        {
+          "minute": 25,
+          "player": "Oyuncu A2",
+          "team": "Takım A"
+        },
+        {
+          "minute": 40,
+          "player": "Oyuncu A3",
+          "team": "Takım A"
+        },
+        {
+          "minute": 55,
+          "player": "Oyuncu A4",
+          "team": "Takım A"
+        },
+        {
+          "minute": 70,
+          "player": "Oyuncu B1",
+          "team": "Takım B"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "65%",
+          "away": "35%"
+        },
+        "shots": {
+          "home": 15,
+          "away": 5
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 2
+        },
+        "corners": {
+          "home": 10,
+          "away": 2
+        },
+        "fouls": {
+          "home": 18,
+          "away": 8
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 1
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "referee": "Hakem 15",
+      "stadium": "Stadyum 15",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu A5 kırmızı kart gördü",
+        "Oyuncu B6 sakatlandı"
+      ]
+    },
+    {
+      "id": 16,
+      "homeTeam": "Marseille",
+      "awayTeam": "Paris Saint-Germain",
+      "homeLogo": "https://via.placeholder.com/50?text=Marseille",
+      "awayLogo": "https://via.placeholder.com/50?text=Paris%20Saint-Germain",
+      "score": "2-0",
+      "date": "2024-10-16",
+      "time": "22:54",
+      "tournament": "Ligue 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Marseille-1",
+        "Oyuncu Marseille-2",
+        "Oyuncu Marseille-3",
+        "Oyuncu Marseille-4",
+        "Oyuncu Marseille-5",
+        "Oyuncu Marseille-6",
+        "Oyuncu Marseille-7",
+        "Oyuncu Marseille-8",
+        "Oyuncu Marseille-9",
+        "Oyuncu Marseille-10",
+        "Oyuncu Marseille-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Paris Saint-Germain-1",
+        "Oyuncu Paris Saint-Germain-2",
+        "Oyuncu Paris Saint-Germain-3",
+        "Oyuncu Paris Saint-Germain-4",
+        "Oyuncu Paris Saint-Germain-5",
+        "Oyuncu Paris Saint-Germain-6",
+        "Oyuncu Paris Saint-Germain-7",
+        "Oyuncu Paris Saint-Germain-8",
+        "Oyuncu Paris Saint-Germain-9",
+        "Oyuncu Paris Saint-Germain-10",
+        "Oyuncu Paris Saint-Germain-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Marseille-Sub1",
+        "Oyuncu Marseille-Sub2",
+        "Oyuncu Marseille-Sub3",
+        "Oyuncu Marseille-Sub4",
+        "Oyuncu Marseille-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Paris Saint-Germain-Sub1",
+        "Oyuncu Paris Saint-Germain-Sub2",
+        "Oyuncu Paris Saint-Germain-Sub3",
+        "Oyuncu Paris Saint-Germain-Sub4",
+        "Oyuncu Paris Saint-Germain-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Marseille-1",
+          "team": "Marseille"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Paris Saint-Germain-1",
+          "team": "Paris Saint-Germain"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Marseille-2",
+          "team": "Marseille"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "78%",
+          "away": "7%"
+        },
+        "shots": {
+          "home": 3,
+          "away": 18
+        },
+        "shotsOnTarget": {
+          "home": 8,
+          "away": 8
+        },
+        "corners": {
+          "home": 12,
+          "away": 4
+        },
+        "fouls": {
+          "home": 15,
+          "away": 18
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 1,
+          "away": 1
+        },
+        "offsides": {
+          "home": 5,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 16",
+      "stadium": "Stadyum 16",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Marseille-1 sakatlandı",
+        "Oyuncu Paris Saint-Germain-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 17,
+      "homeTeam": "West Ham United",
+      "awayTeam": "Arsenal",
+      "homeLogo": "https://via.placeholder.com/50?text=West%20Ham%20United",
+      "awayLogo": "https://via.placeholder.com/50?text=Arsenal",
+      "score": "2-0",
+      "date": "2024-10-17",
+      "time": "17:12",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu West Ham United-1",
+        "Oyuncu West Ham United-2",
+        "Oyuncu West Ham United-3",
+        "Oyuncu West Ham United-4",
+        "Oyuncu West Ham United-5",
+        "Oyuncu West Ham United-6",
+        "Oyuncu West Ham United-7",
+        "Oyuncu West Ham United-8",
+        "Oyuncu West Ham United-9",
+        "Oyuncu West Ham United-10",
+        "Oyuncu West Ham United-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Arsenal-1",
+        "Oyuncu Arsenal-2",
+        "Oyuncu Arsenal-3",
+        "Oyuncu Arsenal-4",
+        "Oyuncu Arsenal-5",
+        "Oyuncu Arsenal-6",
+        "Oyuncu Arsenal-7",
+        "Oyuncu Arsenal-8",
+        "Oyuncu Arsenal-9",
+        "Oyuncu Arsenal-10",
+        "Oyuncu Arsenal-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu West Ham United-Sub1",
+        "Oyuncu West Ham United-Sub2",
+        "Oyuncu West Ham United-Sub3",
+        "Oyuncu West Ham United-Sub4",
+        "Oyuncu West Ham United-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Arsenal-Sub1",
+        "Oyuncu Arsenal-Sub2",
+        "Oyuncu Arsenal-Sub3",
+        "Oyuncu Arsenal-Sub4",
+        "Oyuncu Arsenal-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu West Ham United-1",
+          "team": "West Ham United"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Arsenal-1",
+          "team": "Arsenal"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu West Ham United-2",
+          "team": "West Ham United"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "67%",
+          "away": "2%"
+        },
+        "shots": {
+          "home": 13,
+          "away": 3
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 5
+        },
+        "corners": {
+          "home": 9,
+          "away": 12
+        },
+        "fouls": {
+          "home": 20,
+          "away": 17
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 3
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 1,
+          "away": 8
+        }
+      },
+      "referee": "Hakem 17",
+      "stadium": "Stadyum 17",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu West Ham United-1 sakatlandı",
+        "Oyuncu Arsenal-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 18,
+      "homeTeam": "Tottenham Hotspur",
+      "awayTeam": "Manchester City",
+      "homeLogo": "https://via.placeholder.com/50?text=Tottenham%20Hotspur",
+      "awayLogo": "https://via.placeholder.com/50?text=Manchester%20City",
+      "score": "0-0",
+      "date": "2024-10-18",
+      "time": "10:45",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Tottenham Hotspur-1",
+        "Oyuncu Tottenham Hotspur-2",
+        "Oyuncu Tottenham Hotspur-3",
+        "Oyuncu Tottenham Hotspur-4",
+        "Oyuncu Tottenham Hotspur-5",
+        "Oyuncu Tottenham Hotspur-6",
+        "Oyuncu Tottenham Hotspur-7",
+        "Oyuncu Tottenham Hotspur-8",
+        "Oyuncu Tottenham Hotspur-9",
+        "Oyuncu Tottenham Hotspur-10",
+        "Oyuncu Tottenham Hotspur-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Manchester City-1",
+        "Oyuncu Manchester City-2",
+        "Oyuncu Manchester City-3",
+        "Oyuncu Manchester City-4",
+        "Oyuncu Manchester City-5",
+        "Oyuncu Manchester City-6",
+        "Oyuncu Manchester City-7",
+        "Oyuncu Manchester City-8",
+        "Oyuncu Manchester City-9",
+        "Oyuncu Manchester City-10",
+        "Oyuncu Manchester City-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Tottenham Hotspur-Sub1",
+        "Oyuncu Tottenham Hotspur-Sub2",
+        "Oyuncu Tottenham Hotspur-Sub3",
+        "Oyuncu Tottenham Hotspur-Sub4",
+        "Oyuncu Tottenham Hotspur-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Manchester City-Sub1",
+        "Oyuncu Manchester City-Sub2",
+        "Oyuncu Manchester City-Sub3",
+        "Oyuncu Manchester City-Sub4",
+        "Oyuncu Manchester City-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Tottenham Hotspur-1",
+          "team": "Tottenham Hotspur"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Manchester City-1",
+          "team": "Manchester City"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Tottenham Hotspur-2",
+          "team": "Tottenham Hotspur"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "92%",
+          "away": "19%"
+        },
+        "shots": {
+          "home": 1,
+          "away": 18
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 5
+        },
+        "corners": {
+          "home": 0,
+          "away": 4
+        },
+        "fouls": {
+          "home": 16,
+          "away": 7
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 6,
+          "away": 1
+        }
+      },
+      "referee": "Hakem 18",
+      "stadium": "Stadyum 18",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Tottenham Hotspur-1 sakatlandı",
+        "Oyuncu Manchester City-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 19,
+      "homeTeam": "Manchester City",
+      "awayTeam": "West Ham United",
+      "homeLogo": "https://via.placeholder.com/50?text=Manchester%20City",
+      "awayLogo": "https://via.placeholder.com/50?text=West%20Ham%20United",
+      "score": "3-3",
+      "date": "2024-10-19",
+      "time": "05:50",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Manchester City-1",
+        "Oyuncu Manchester City-2",
+        "Oyuncu Manchester City-3",
+        "Oyuncu Manchester City-4",
+        "Oyuncu Manchester City-5",
+        "Oyuncu Manchester City-6",
+        "Oyuncu Manchester City-7",
+        "Oyuncu Manchester City-8",
+        "Oyuncu Manchester City-9",
+        "Oyuncu Manchester City-10",
+        "Oyuncu Manchester City-11"
+      ],
+      "awayLineup": [
+        "Oyuncu West Ham United-1",
+        "Oyuncu West Ham United-2",
+        "Oyuncu West Ham United-3",
+        "Oyuncu West Ham United-4",
+        "Oyuncu West Ham United-5",
+        "Oyuncu West Ham United-6",
+        "Oyuncu West Ham United-7",
+        "Oyuncu West Ham United-8",
+        "Oyuncu West Ham United-9",
+        "Oyuncu West Ham United-10",
+        "Oyuncu West Ham United-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Manchester City-Sub1",
+        "Oyuncu Manchester City-Sub2",
+        "Oyuncu Manchester City-Sub3",
+        "Oyuncu Manchester City-Sub4",
+        "Oyuncu Manchester City-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu West Ham United-Sub1",
+        "Oyuncu West Ham United-Sub2",
+        "Oyuncu West Ham United-Sub3",
+        "Oyuncu West Ham United-Sub4",
+        "Oyuncu West Ham United-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Manchester City-1",
+          "team": "Manchester City"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu West Ham United-1",
+          "team": "West Ham United"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Manchester City-2",
+          "team": "Manchester City"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "93%",
+          "away": "43%"
+        },
+        "shots": {
+          "home": 1,
+          "away": 15
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 9
+        },
+        "corners": {
+          "home": 3,
+          "away": 4
+        },
+        "fouls": {
+          "home": 10,
+          "away": 6
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 4
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 2,
+          "away": 3
+        }
+      },
+      "referee": "Hakem 19",
+      "stadium": "Stadyum 19",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Manchester City-1 sakatlandı",
+        "Oyuncu West Ham United-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 20,
+      "homeTeam": "Getafe",
+      "awayTeam": "Sevilla",
+      "homeLogo": "https://via.placeholder.com/50?text=Getafe",
+      "awayLogo": "https://via.placeholder.com/50?text=Sevilla",
+      "score": "2-1",
+      "date": "2024-10-20",
+      "time": "01:09",
+      "tournament": "La Liga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Getafe-1",
+        "Oyuncu Getafe-2",
+        "Oyuncu Getafe-3",
+        "Oyuncu Getafe-4",
+        "Oyuncu Getafe-5",
+        "Oyuncu Getafe-6",
+        "Oyuncu Getafe-7",
+        "Oyuncu Getafe-8",
+        "Oyuncu Getafe-9",
+        "Oyuncu Getafe-10",
+        "Oyuncu Getafe-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Sevilla-1",
+        "Oyuncu Sevilla-2",
+        "Oyuncu Sevilla-3",
+        "Oyuncu Sevilla-4",
+        "Oyuncu Sevilla-5",
+        "Oyuncu Sevilla-6",
+        "Oyuncu Sevilla-7",
+        "Oyuncu Sevilla-8",
+        "Oyuncu Sevilla-9",
+        "Oyuncu Sevilla-10",
+        "Oyuncu Sevilla-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Getafe-Sub1",
+        "Oyuncu Getafe-Sub2",
+        "Oyuncu Getafe-Sub3",
+        "Oyuncu Getafe-Sub4",
+        "Oyuncu Getafe-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Sevilla-Sub1",
+        "Oyuncu Sevilla-Sub2",
+        "Oyuncu Sevilla-Sub3",
+        "Oyuncu Sevilla-Sub4",
+        "Oyuncu Sevilla-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Getafe-1",
+          "team": "Getafe"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Sevilla-1",
+          "team": "Sevilla"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Getafe-2",
+          "team": "Getafe"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "74%",
+          "away": "16%"
+        },
+        "shots": {
+          "home": 12,
+          "away": 5
+        },
+        "shotsOnTarget": {
+          "home": 8,
+          "away": 9
+        },
+        "corners": {
+          "home": 12,
+          "away": 1
+        },
+        "fouls": {
+          "home": 12,
+          "away": 4
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 3,
+          "away": 0
+        }
+      },
+      "referee": "Hakem 20",
+      "stadium": "Stadyum 20",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Getafe-1 sakatlandı",
+        "Oyuncu Sevilla-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 21,
+      "homeTeam": "Valencia",
+      "awayTeam": "Getafe",
+      "homeLogo": "https://via.placeholder.com/50?text=Valencia",
+      "awayLogo": "https://via.placeholder.com/50?text=Getafe",
+      "score": "0-3",
+      "date": "2024-10-21",
+      "time": "17:07",
+      "tournament": "La Liga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Valencia-1",
+        "Oyuncu Valencia-2",
+        "Oyuncu Valencia-3",
+        "Oyuncu Valencia-4",
+        "Oyuncu Valencia-5",
+        "Oyuncu Valencia-6",
+        "Oyuncu Valencia-7",
+        "Oyuncu Valencia-8",
+        "Oyuncu Valencia-9",
+        "Oyuncu Valencia-10",
+        "Oyuncu Valencia-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Getafe-1",
+        "Oyuncu Getafe-2",
+        "Oyuncu Getafe-3",
+        "Oyuncu Getafe-4",
+        "Oyuncu Getafe-5",
+        "Oyuncu Getafe-6",
+        "Oyuncu Getafe-7",
+        "Oyuncu Getafe-8",
+        "Oyuncu Getafe-9",
+        "Oyuncu Getafe-10",
+        "Oyuncu Getafe-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Valencia-Sub1",
+        "Oyuncu Valencia-Sub2",
+        "Oyuncu Valencia-Sub3",
+        "Oyuncu Valencia-Sub4",
+        "Oyuncu Valencia-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Getafe-Sub1",
+        "Oyuncu Getafe-Sub2",
+        "Oyuncu Getafe-Sub3",
+        "Oyuncu Getafe-Sub4",
+        "Oyuncu Getafe-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Valencia-1",
+          "team": "Valencia"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Getafe-1",
+          "team": "Getafe"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Valencia-2",
+          "team": "Valencia"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "58%",
+          "away": "11%"
+        },
+        "shots": {
+          "home": 8,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 6,
+          "away": 0
+        },
+        "corners": {
+          "home": 1,
+          "away": 14
+        },
+        "fouls": {
+          "home": 11,
+          "away": 23
+        },
+        "yellowCards": {
+          "home": 4,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 6,
+          "away": 8
+        }
+      },
+      "referee": "Hakem 21",
+      "stadium": "Stadyum 21",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu Valencia-1 sakatlandı",
+        "Oyuncu Getafe-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 22,
+      "homeTeam": "Leicester City",
+      "awayTeam": "Arsenal",
+      "homeLogo": "https://via.placeholder.com/50?text=Leicester%20City",
+      "awayLogo": "https://via.placeholder.com/50?text=Arsenal",
+      "score": "4-1",
+      "date": "2024-10-22",
+      "time": "08:20",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Leicester City-1",
+        "Oyuncu Leicester City-2",
+        "Oyuncu Leicester City-3",
+        "Oyuncu Leicester City-4",
+        "Oyuncu Leicester City-5",
+        "Oyuncu Leicester City-6",
+        "Oyuncu Leicester City-7",
+        "Oyuncu Leicester City-8",
+        "Oyuncu Leicester City-9",
+        "Oyuncu Leicester City-10",
+        "Oyuncu Leicester City-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Arsenal-1",
+        "Oyuncu Arsenal-2",
+        "Oyuncu Arsenal-3",
+        "Oyuncu Arsenal-4",
+        "Oyuncu Arsenal-5",
+        "Oyuncu Arsenal-6",
+        "Oyuncu Arsenal-7",
+        "Oyuncu Arsenal-8",
+        "Oyuncu Arsenal-9",
+        "Oyuncu Arsenal-10",
+        "Oyuncu Arsenal-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Leicester City-Sub1",
+        "Oyuncu Leicester City-Sub2",
+        "Oyuncu Leicester City-Sub3",
+        "Oyuncu Leicester City-Sub4",
+        "Oyuncu Leicester City-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Arsenal-Sub1",
+        "Oyuncu Arsenal-Sub2",
+        "Oyuncu Arsenal-Sub3",
+        "Oyuncu Arsenal-Sub4",
+        "Oyuncu Arsenal-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Leicester City-1",
+          "team": "Leicester City"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Arsenal-1",
+          "team": "Arsenal"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Leicester City-2",
+          "team": "Leicester City"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "63%",
+          "away": "17%"
+        },
+        "shots": {
+          "home": 9,
+          "away": 18
+        },
+        "shotsOnTarget": {
+          "home": 8,
+          "away": 1
+        },
+        "corners": {
+          "home": 4,
+          "away": 12
+        },
+        "fouls": {
+          "home": 12,
+          "away": 17
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 9,
+          "away": 8
+        }
+      },
+      "referee": "Hakem 22",
+      "stadium": "Stadyum 22",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Leicester City-1 sakatlandı",
+        "Oyuncu Arsenal-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 23,
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "RB Leipzig",
+      "homeLogo": "https://via.placeholder.com/50?text=Bayer%20Leverkusen",
+      "awayLogo": "https://via.placeholder.com/50?text=RB%20Leipzig",
+      "score": "0-4",
+      "date": "2024-10-23",
+      "time": "01:56",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Bayer Leverkusen-1",
+        "Oyuncu Bayer Leverkusen-2",
+        "Oyuncu Bayer Leverkusen-3",
+        "Oyuncu Bayer Leverkusen-4",
+        "Oyuncu Bayer Leverkusen-5",
+        "Oyuncu Bayer Leverkusen-6",
+        "Oyuncu Bayer Leverkusen-7",
+        "Oyuncu Bayer Leverkusen-8",
+        "Oyuncu Bayer Leverkusen-9",
+        "Oyuncu Bayer Leverkusen-10",
+        "Oyuncu Bayer Leverkusen-11"
+      ],
+      "awayLineup": [
+        "Oyuncu RB Leipzig-1",
+        "Oyuncu RB Leipzig-2",
+        "Oyuncu RB Leipzig-3",
+        "Oyuncu RB Leipzig-4",
+        "Oyuncu RB Leipzig-5",
+        "Oyuncu RB Leipzig-6",
+        "Oyuncu RB Leipzig-7",
+        "Oyuncu RB Leipzig-8",
+        "Oyuncu RB Leipzig-9",
+        "Oyuncu RB Leipzig-10",
+        "Oyuncu RB Leipzig-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Bayer Leverkusen-Sub1",
+        "Oyuncu Bayer Leverkusen-Sub2",
+        "Oyuncu Bayer Leverkusen-Sub3",
+        "Oyuncu Bayer Leverkusen-Sub4",
+        "Oyuncu Bayer Leverkusen-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu RB Leipzig-Sub1",
+        "Oyuncu RB Leipzig-Sub2",
+        "Oyuncu RB Leipzig-Sub3",
+        "Oyuncu RB Leipzig-Sub4",
+        "Oyuncu RB Leipzig-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Bayer Leverkusen-1",
+          "team": "Bayer Leverkusen"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu RB Leipzig-1",
+          "team": "RB Leipzig"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Bayer Leverkusen-2",
+          "team": "Bayer Leverkusen"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "70%",
+          "away": "19%"
+        },
+        "shots": {
+          "home": 13,
+          "away": 11
+        },
+        "shotsOnTarget": {
+          "home": 9,
+          "away": 9
+        },
+        "corners": {
+          "home": 7,
+          "away": 5
+        },
+        "fouls": {
+          "home": 12,
+          "away": 15
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 2,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 23",
+      "stadium": "Stadyum 23",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Bayer Leverkusen-1 sakatlandı",
+        "Oyuncu RB Leipzig-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 24,
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "VfB Stuttgart",
+      "homeLogo": "https://via.placeholder.com/50?text=RB%20Leipzig",
+      "awayLogo": "https://via.placeholder.com/50?text=VfB%20Stuttgart",
+      "score": "4-3",
+      "date": "2024-10-24",
+      "time": "13:45",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu RB Leipzig-1",
+        "Oyuncu RB Leipzig-2",
+        "Oyuncu RB Leipzig-3",
+        "Oyuncu RB Leipzig-4",
+        "Oyuncu RB Leipzig-5",
+        "Oyuncu RB Leipzig-6",
+        "Oyuncu RB Leipzig-7",
+        "Oyuncu RB Leipzig-8",
+        "Oyuncu RB Leipzig-9",
+        "Oyuncu RB Leipzig-10",
+        "Oyuncu RB Leipzig-11"
+      ],
+      "awayLineup": [
+        "Oyuncu VfB Stuttgart-1",
+        "Oyuncu VfB Stuttgart-2",
+        "Oyuncu VfB Stuttgart-3",
+        "Oyuncu VfB Stuttgart-4",
+        "Oyuncu VfB Stuttgart-5",
+        "Oyuncu VfB Stuttgart-6",
+        "Oyuncu VfB Stuttgart-7",
+        "Oyuncu VfB Stuttgart-8",
+        "Oyuncu VfB Stuttgart-9",
+        "Oyuncu VfB Stuttgart-10",
+        "Oyuncu VfB Stuttgart-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu RB Leipzig-Sub1",
+        "Oyuncu RB Leipzig-Sub2",
+        "Oyuncu RB Leipzig-Sub3",
+        "Oyuncu RB Leipzig-Sub4",
+        "Oyuncu RB Leipzig-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu VfB Stuttgart-Sub1",
+        "Oyuncu VfB Stuttgart-Sub2",
+        "Oyuncu VfB Stuttgart-Sub3",
+        "Oyuncu VfB Stuttgart-Sub4",
+        "Oyuncu VfB Stuttgart-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu RB Leipzig-1",
+          "team": "RB Leipzig"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu VfB Stuttgart-1",
+          "team": "VfB Stuttgart"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu RB Leipzig-2",
+          "team": "RB Leipzig"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "57%",
+          "away": "33%"
+        },
+        "shots": {
+          "home": 15,
+          "away": 4
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 9
+        },
+        "corners": {
+          "home": 13,
+          "away": 10
+        },
+        "fouls": {
+          "home": 15,
+          "away": 12
+        },
+        "yellowCards": {
+          "home": 4,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 4,
+          "away": 7
+        }
+      },
+      "referee": "Hakem 24",
+      "stadium": "Stadyum 24",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu RB Leipzig-1 sakatlandı",
+        "Oyuncu VfB Stuttgart-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 25,
+      "homeTeam": "Atalanta",
+      "awayTeam": "Torino",
+      "homeLogo": "https://via.placeholder.com/50?text=Atalanta",
+      "awayLogo": "https://via.placeholder.com/50?text=Torino",
+      "score": "0-2",
+      "date": "2024-10-25",
+      "time": "15:34",
+      "tournament": "Serie A",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Atalanta-1",
+        "Oyuncu Atalanta-2",
+        "Oyuncu Atalanta-3",
+        "Oyuncu Atalanta-4",
+        "Oyuncu Atalanta-5",
+        "Oyuncu Atalanta-6",
+        "Oyuncu Atalanta-7",
+        "Oyuncu Atalanta-8",
+        "Oyuncu Atalanta-9",
+        "Oyuncu Atalanta-10",
+        "Oyuncu Atalanta-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Torino-1",
+        "Oyuncu Torino-2",
+        "Oyuncu Torino-3",
+        "Oyuncu Torino-4",
+        "Oyuncu Torino-5",
+        "Oyuncu Torino-6",
+        "Oyuncu Torino-7",
+        "Oyuncu Torino-8",
+        "Oyuncu Torino-9",
+        "Oyuncu Torino-10",
+        "Oyuncu Torino-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Atalanta-Sub1",
+        "Oyuncu Atalanta-Sub2",
+        "Oyuncu Atalanta-Sub3",
+        "Oyuncu Atalanta-Sub4",
+        "Oyuncu Atalanta-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Torino-Sub1",
+        "Oyuncu Torino-Sub2",
+        "Oyuncu Torino-Sub3",
+        "Oyuncu Torino-Sub4",
+        "Oyuncu Torino-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Atalanta-1",
+          "team": "Atalanta"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Torino-1",
+          "team": "Torino"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Atalanta-2",
+          "team": "Atalanta"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "68%",
+          "away": "19%"
+        },
+        "shots": {
+          "home": 3,
+          "away": 10
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 2
+        },
+        "corners": {
+          "home": 8,
+          "away": 2
+        },
+        "fouls": {
+          "home": 21,
+          "away": 15
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "referee": "Hakem 25",
+      "stadium": "Stadyum 25",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Atalanta-1 sakatlandı",
+        "Oyuncu Torino-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 26,
+      "homeTeam": "West Ham United",
+      "awayTeam": "Chelsea",
+      "homeLogo": "https://via.placeholder.com/50?text=West%20Ham%20United",
+      "awayLogo": "https://via.placeholder.com/50?text=Chelsea",
+      "score": "3-2",
+      "date": "2024-10-26",
+      "time": "05:21",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu West Ham United-1",
+        "Oyuncu West Ham United-2",
+        "Oyuncu West Ham United-3",
+        "Oyuncu West Ham United-4",
+        "Oyuncu West Ham United-5",
+        "Oyuncu West Ham United-6",
+        "Oyuncu West Ham United-7",
+        "Oyuncu West Ham United-8",
+        "Oyuncu West Ham United-9",
+        "Oyuncu West Ham United-10",
+        "Oyuncu West Ham United-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Chelsea-1",
+        "Oyuncu Chelsea-2",
+        "Oyuncu Chelsea-3",
+        "Oyuncu Chelsea-4",
+        "Oyuncu Chelsea-5",
+        "Oyuncu Chelsea-6",
+        "Oyuncu Chelsea-7",
+        "Oyuncu Chelsea-8",
+        "Oyuncu Chelsea-9",
+        "Oyuncu Chelsea-10",
+        "Oyuncu Chelsea-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu West Ham United-Sub1",
+        "Oyuncu West Ham United-Sub2",
+        "Oyuncu West Ham United-Sub3",
+        "Oyuncu West Ham United-Sub4",
+        "Oyuncu West Ham United-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Chelsea-Sub1",
+        "Oyuncu Chelsea-Sub2",
+        "Oyuncu Chelsea-Sub3",
+        "Oyuncu Chelsea-Sub4",
+        "Oyuncu Chelsea-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu West Ham United-1",
+          "team": "West Ham United"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Chelsea-1",
+          "team": "Chelsea"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu West Ham United-2",
+          "team": "West Ham United"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "75%",
+          "away": "22%"
+        },
+        "shots": {
+          "home": 16,
+          "away": 2
+        },
+        "shotsOnTarget": {
+          "home": 8,
+          "away": 4
+        },
+        "corners": {
+          "home": 12,
+          "away": 7
+        },
+        "fouls": {
+          "home": 21,
+          "away": 24
+        },
+        "yellowCards": {
+          "home": 4,
+          "away": 4
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 6,
+          "away": 1
+        }
+      },
+      "referee": "Hakem 26",
+      "stadium": "Stadyum 26",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu West Ham United-1 sakatlandı",
+        "Oyuncu Chelsea-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 27,
+      "homeTeam": "Manchester City",
+      "awayTeam": "Manchester United",
+      "homeLogo": "https://via.placeholder.com/50?text=Manchester%20City",
+      "awayLogo": "https://via.placeholder.com/50?text=Manchester%20United",
+      "score": "2-4",
+      "date": "2024-10-27",
+      "time": "22:36",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Manchester City-1",
+        "Oyuncu Manchester City-2",
+        "Oyuncu Manchester City-3",
+        "Oyuncu Manchester City-4",
+        "Oyuncu Manchester City-5",
+        "Oyuncu Manchester City-6",
+        "Oyuncu Manchester City-7",
+        "Oyuncu Manchester City-8",
+        "Oyuncu Manchester City-9",
+        "Oyuncu Manchester City-10",
+        "Oyuncu Manchester City-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Manchester United-1",
+        "Oyuncu Manchester United-2",
+        "Oyuncu Manchester United-3",
+        "Oyuncu Manchester United-4",
+        "Oyuncu Manchester United-5",
+        "Oyuncu Manchester United-6",
+        "Oyuncu Manchester United-7",
+        "Oyuncu Manchester United-8",
+        "Oyuncu Manchester United-9",
+        "Oyuncu Manchester United-10",
+        "Oyuncu Manchester United-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Manchester City-Sub1",
+        "Oyuncu Manchester City-Sub2",
+        "Oyuncu Manchester City-Sub3",
+        "Oyuncu Manchester City-Sub4",
+        "Oyuncu Manchester City-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Manchester United-Sub1",
+        "Oyuncu Manchester United-Sub2",
+        "Oyuncu Manchester United-Sub3",
+        "Oyuncu Manchester United-Sub4",
+        "Oyuncu Manchester United-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Manchester City-1",
+          "team": "Manchester City"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Manchester United-1",
+          "team": "Manchester United"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Manchester City-2",
+          "team": "Manchester City"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "68%",
+          "away": "19%"
+        },
+        "shots": {
+          "home": 0,
+          "away": 15
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 9
+        },
+        "corners": {
+          "home": 2,
+          "away": 14
+        },
+        "fouls": {
+          "home": 22,
+          "away": 24
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 1
+        },
+        "redCards": {
+          "home": 1,
+          "away": 1
+        },
+        "offsides": {
+          "home": 3,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 27",
+      "stadium": "Stadyum 27",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Manchester City-1 sakatlandı",
+        "Oyuncu Manchester United-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 28,
+      "homeTeam": "Borussia Mönchengladbach",
+      "awayTeam": "Bayer Leverkusen",
+      "homeLogo": "https://via.placeholder.com/50?text=Borussia%20M%C3%B6nchengladbach",
+      "awayLogo": "https://via.placeholder.com/50?text=Bayer%20Leverkusen",
+      "score": "0-1",
+      "date": "2024-10-28",
+      "time": "17:21",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Borussia Mönchengladbach-1",
+        "Oyuncu Borussia Mönchengladbach-2",
+        "Oyuncu Borussia Mönchengladbach-3",
+        "Oyuncu Borussia Mönchengladbach-4",
+        "Oyuncu Borussia Mönchengladbach-5",
+        "Oyuncu Borussia Mönchengladbach-6",
+        "Oyuncu Borussia Mönchengladbach-7",
+        "Oyuncu Borussia Mönchengladbach-8",
+        "Oyuncu Borussia Mönchengladbach-9",
+        "Oyuncu Borussia Mönchengladbach-10",
+        "Oyuncu Borussia Mönchengladbach-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Bayer Leverkusen-1",
+        "Oyuncu Bayer Leverkusen-2",
+        "Oyuncu Bayer Leverkusen-3",
+        "Oyuncu Bayer Leverkusen-4",
+        "Oyuncu Bayer Leverkusen-5",
+        "Oyuncu Bayer Leverkusen-6",
+        "Oyuncu Bayer Leverkusen-7",
+        "Oyuncu Bayer Leverkusen-8",
+        "Oyuncu Bayer Leverkusen-9",
+        "Oyuncu Bayer Leverkusen-10",
+        "Oyuncu Bayer Leverkusen-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Borussia Mönchengladbach-Sub1",
+        "Oyuncu Borussia Mönchengladbach-Sub2",
+        "Oyuncu Borussia Mönchengladbach-Sub3",
+        "Oyuncu Borussia Mönchengladbach-Sub4",
+        "Oyuncu Borussia Mönchengladbach-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Bayer Leverkusen-Sub1",
+        "Oyuncu Bayer Leverkusen-Sub2",
+        "Oyuncu Bayer Leverkusen-Sub3",
+        "Oyuncu Bayer Leverkusen-Sub4",
+        "Oyuncu Bayer Leverkusen-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Borussia Mönchengladbach-1",
+          "team": "Borussia Mönchengladbach"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Bayer Leverkusen-1",
+          "team": "Bayer Leverkusen"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Borussia Mönchengladbach-2",
+          "team": "Borussia Mönchengladbach"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "58%",
+          "away": "4%"
+        },
+        "shots": {
+          "home": 18,
+          "away": 4
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 1
+        },
+        "corners": {
+          "home": 0,
+          "away": 4
+        },
+        "fouls": {
+          "home": 6,
+          "away": 1
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 4,
+          "away": 5
+        }
+      },
+      "referee": "Hakem 28",
+      "stadium": "Stadyum 28",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Borussia Mönchengladbach-1 sakatlandı",
+        "Oyuncu Bayer Leverkusen-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 29,
+      "homeTeam": "Leeds United",
+      "awayTeam": "Arsenal",
+      "homeLogo": "https://via.placeholder.com/50?text=Leeds%20United",
+      "awayLogo": "https://via.placeholder.com/50?text=Arsenal",
+      "score": "3-0",
+      "date": "2024-10-29",
+      "time": "04:58",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Leeds United-1",
+        "Oyuncu Leeds United-2",
+        "Oyuncu Leeds United-3",
+        "Oyuncu Leeds United-4",
+        "Oyuncu Leeds United-5",
+        "Oyuncu Leeds United-6",
+        "Oyuncu Leeds United-7",
+        "Oyuncu Leeds United-8",
+        "Oyuncu Leeds United-9",
+        "Oyuncu Leeds United-10",
+        "Oyuncu Leeds United-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Arsenal-1",
+        "Oyuncu Arsenal-2",
+        "Oyuncu Arsenal-3",
+        "Oyuncu Arsenal-4",
+        "Oyuncu Arsenal-5",
+        "Oyuncu Arsenal-6",
+        "Oyuncu Arsenal-7",
+        "Oyuncu Arsenal-8",
+        "Oyuncu Arsenal-9",
+        "Oyuncu Arsenal-10",
+        "Oyuncu Arsenal-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Leeds United-Sub1",
+        "Oyuncu Leeds United-Sub2",
+        "Oyuncu Leeds United-Sub3",
+        "Oyuncu Leeds United-Sub4",
+        "Oyuncu Leeds United-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Arsenal-Sub1",
+        "Oyuncu Arsenal-Sub2",
+        "Oyuncu Arsenal-Sub3",
+        "Oyuncu Arsenal-Sub4",
+        "Oyuncu Arsenal-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Leeds United-1",
+          "team": "Leeds United"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Arsenal-1",
+          "team": "Arsenal"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Leeds United-2",
+          "team": "Leeds United"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "76%",
+          "away": "11%"
+        },
+        "shots": {
+          "home": 12,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 8,
+          "away": 9
+        },
+        "corners": {
+          "home": 2,
+          "away": 2
+        },
+        "fouls": {
+          "home": 14,
+          "away": 4
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 4
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 2,
+          "away": 4
+        }
+      },
+      "referee": "Hakem 29",
+      "stadium": "Stadyum 29",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu Leeds United-1 sakatlandı",
+        "Oyuncu Arsenal-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 30,
+      "homeTeam": "Montpellier",
+      "awayTeam": "Monaco",
+      "homeLogo": "https://via.placeholder.com/50?text=Montpellier",
+      "awayLogo": "https://via.placeholder.com/50?text=Monaco",
+      "score": "2-4",
+      "date": "2024-10-30",
+      "time": "20:35",
+      "tournament": "Ligue 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Montpellier-1",
+        "Oyuncu Montpellier-2",
+        "Oyuncu Montpellier-3",
+        "Oyuncu Montpellier-4",
+        "Oyuncu Montpellier-5",
+        "Oyuncu Montpellier-6",
+        "Oyuncu Montpellier-7",
+        "Oyuncu Montpellier-8",
+        "Oyuncu Montpellier-9",
+        "Oyuncu Montpellier-10",
+        "Oyuncu Montpellier-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Monaco-1",
+        "Oyuncu Monaco-2",
+        "Oyuncu Monaco-3",
+        "Oyuncu Monaco-4",
+        "Oyuncu Monaco-5",
+        "Oyuncu Monaco-6",
+        "Oyuncu Monaco-7",
+        "Oyuncu Monaco-8",
+        "Oyuncu Monaco-9",
+        "Oyuncu Monaco-10",
+        "Oyuncu Monaco-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Montpellier-Sub1",
+        "Oyuncu Montpellier-Sub2",
+        "Oyuncu Montpellier-Sub3",
+        "Oyuncu Montpellier-Sub4",
+        "Oyuncu Montpellier-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Monaco-Sub1",
+        "Oyuncu Monaco-Sub2",
+        "Oyuncu Monaco-Sub3",
+        "Oyuncu Monaco-Sub4",
+        "Oyuncu Monaco-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Montpellier-1",
+          "team": "Montpellier"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Monaco-1",
+          "team": "Monaco"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Montpellier-2",
+          "team": "Montpellier"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "71%",
+          "away": "4%"
+        },
+        "shots": {
+          "home": 3,
+          "away": 1
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 6
+        },
+        "corners": {
+          "home": 10,
+          "away": 14
+        },
+        "fouls": {
+          "home": 17,
+          "away": 5
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 1
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 6,
+          "away": 1
+        }
+      },
+      "referee": "Hakem 30",
+      "stadium": "Stadyum 30",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Montpellier-1 sakatlandı",
+        "Oyuncu Monaco-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 31,
+      "homeTeam": "Tottenham Hotspur",
+      "awayTeam": "Liverpool",
+      "homeLogo": "https://via.placeholder.com/50?text=Tottenham%20Hotspur",
+      "awayLogo": "https://via.placeholder.com/50?text=Liverpool",
+      "score": "1-4",
+      "date": "2024-10-1",
+      "time": "23:12",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Tottenham Hotspur-1",
+        "Oyuncu Tottenham Hotspur-2",
+        "Oyuncu Tottenham Hotspur-3",
+        "Oyuncu Tottenham Hotspur-4",
+        "Oyuncu Tottenham Hotspur-5",
+        "Oyuncu Tottenham Hotspur-6",
+        "Oyuncu Tottenham Hotspur-7",
+        "Oyuncu Tottenham Hotspur-8",
+        "Oyuncu Tottenham Hotspur-9",
+        "Oyuncu Tottenham Hotspur-10",
+        "Oyuncu Tottenham Hotspur-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Liverpool-1",
+        "Oyuncu Liverpool-2",
+        "Oyuncu Liverpool-3",
+        "Oyuncu Liverpool-4",
+        "Oyuncu Liverpool-5",
+        "Oyuncu Liverpool-6",
+        "Oyuncu Liverpool-7",
+        "Oyuncu Liverpool-8",
+        "Oyuncu Liverpool-9",
+        "Oyuncu Liverpool-10",
+        "Oyuncu Liverpool-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Tottenham Hotspur-Sub1",
+        "Oyuncu Tottenham Hotspur-Sub2",
+        "Oyuncu Tottenham Hotspur-Sub3",
+        "Oyuncu Tottenham Hotspur-Sub4",
+        "Oyuncu Tottenham Hotspur-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Liverpool-Sub1",
+        "Oyuncu Liverpool-Sub2",
+        "Oyuncu Liverpool-Sub3",
+        "Oyuncu Liverpool-Sub4",
+        "Oyuncu Liverpool-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Tottenham Hotspur-1",
+          "team": "Tottenham Hotspur"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Liverpool-1",
+          "team": "Liverpool"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Tottenham Hotspur-2",
+          "team": "Tottenham Hotspur"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "92%",
+          "away": "45%"
+        },
+        "shots": {
+          "home": 17,
+          "away": 7
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 9
+        },
+        "corners": {
+          "home": 9,
+          "away": 7
+        },
+        "fouls": {
+          "home": 16,
+          "away": 19
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 3
+        },
+        "redCards": {
+          "home": 1,
+          "away": 1
+        },
+        "offsides": {
+          "home": 4,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 31",
+      "stadium": "Stadyum 31",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Tottenham Hotspur-1 sakatlandı",
+        "Oyuncu Liverpool-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 32,
+      "homeTeam": "Leeds United",
+      "awayTeam": "Manchester City",
+      "homeLogo": "https://via.placeholder.com/50?text=Leeds%20United",
+      "awayLogo": "https://via.placeholder.com/50?text=Manchester%20City",
+      "score": "1-0",
+      "date": "2024-10-2",
+      "time": "22:01",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Leeds United-1",
+        "Oyuncu Leeds United-2",
+        "Oyuncu Leeds United-3",
+        "Oyuncu Leeds United-4",
+        "Oyuncu Leeds United-5",
+        "Oyuncu Leeds United-6",
+        "Oyuncu Leeds United-7",
+        "Oyuncu Leeds United-8",
+        "Oyuncu Leeds United-9",
+        "Oyuncu Leeds United-10",
+        "Oyuncu Leeds United-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Manchester City-1",
+        "Oyuncu Manchester City-2",
+        "Oyuncu Manchester City-3",
+        "Oyuncu Manchester City-4",
+        "Oyuncu Manchester City-5",
+        "Oyuncu Manchester City-6",
+        "Oyuncu Manchester City-7",
+        "Oyuncu Manchester City-8",
+        "Oyuncu Manchester City-9",
+        "Oyuncu Manchester City-10",
+        "Oyuncu Manchester City-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Leeds United-Sub1",
+        "Oyuncu Leeds United-Sub2",
+        "Oyuncu Leeds United-Sub3",
+        "Oyuncu Leeds United-Sub4",
+        "Oyuncu Leeds United-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Manchester City-Sub1",
+        "Oyuncu Manchester City-Sub2",
+        "Oyuncu Manchester City-Sub3",
+        "Oyuncu Manchester City-Sub4",
+        "Oyuncu Manchester City-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Leeds United-1",
+          "team": "Leeds United"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Manchester City-1",
+          "team": "Manchester City"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Leeds United-2",
+          "team": "Leeds United"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "57%",
+          "away": "48%"
+        },
+        "shots": {
+          "home": 18,
+          "away": 15
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 4
+        },
+        "corners": {
+          "home": 4,
+          "away": 3
+        },
+        "fouls": {
+          "home": 5,
+          "away": 21
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 6,
+          "away": 8
+        }
+      },
+      "referee": "Hakem 32",
+      "stadium": "Stadyum 32",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Leeds United-1 sakatlandı",
+        "Oyuncu Manchester City-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 33,
+      "homeTeam": "Villarreal",
+      "awayTeam": "Sevilla",
+      "homeLogo": "https://via.placeholder.com/50?text=Villarreal",
+      "awayLogo": "https://via.placeholder.com/50?text=Sevilla",
+      "score": "1-0",
+      "date": "2024-10-3",
+      "time": "22:02",
+      "tournament": "La Liga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Villarreal-1",
+        "Oyuncu Villarreal-2",
+        "Oyuncu Villarreal-3",
+        "Oyuncu Villarreal-4",
+        "Oyuncu Villarreal-5",
+        "Oyuncu Villarreal-6",
+        "Oyuncu Villarreal-7",
+        "Oyuncu Villarreal-8",
+        "Oyuncu Villarreal-9",
+        "Oyuncu Villarreal-10",
+        "Oyuncu Villarreal-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Sevilla-1",
+        "Oyuncu Sevilla-2",
+        "Oyuncu Sevilla-3",
+        "Oyuncu Sevilla-4",
+        "Oyuncu Sevilla-5",
+        "Oyuncu Sevilla-6",
+        "Oyuncu Sevilla-7",
+        "Oyuncu Sevilla-8",
+        "Oyuncu Sevilla-9",
+        "Oyuncu Sevilla-10",
+        "Oyuncu Sevilla-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Villarreal-Sub1",
+        "Oyuncu Villarreal-Sub2",
+        "Oyuncu Villarreal-Sub3",
+        "Oyuncu Villarreal-Sub4",
+        "Oyuncu Villarreal-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Sevilla-Sub1",
+        "Oyuncu Sevilla-Sub2",
+        "Oyuncu Sevilla-Sub3",
+        "Oyuncu Sevilla-Sub4",
+        "Oyuncu Sevilla-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Villarreal-1",
+          "team": "Villarreal"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Sevilla-1",
+          "team": "Sevilla"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Villarreal-2",
+          "team": "Villarreal"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "62%",
+          "away": "13%"
+        },
+        "shots": {
+          "home": 7,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 0,
+          "away": 2
+        },
+        "corners": {
+          "home": 3,
+          "away": 2
+        },
+        "fouls": {
+          "home": 7,
+          "away": 24
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 8,
+          "away": 6
+        }
+      },
+      "referee": "Hakem 33",
+      "stadium": "Stadyum 33",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu Villarreal-1 sakatlandı",
+        "Oyuncu Sevilla-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 34,
+      "homeTeam": "Nice",
+      "awayTeam": "Lyon",
+      "homeLogo": "https://via.placeholder.com/50?text=Nice",
+      "awayLogo": "https://via.placeholder.com/50?text=Lyon",
+      "score": "2-0",
+      "date": "2024-10-4",
+      "time": "17:05",
+      "tournament": "Ligue 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Nice-1",
+        "Oyuncu Nice-2",
+        "Oyuncu Nice-3",
+        "Oyuncu Nice-4",
+        "Oyuncu Nice-5",
+        "Oyuncu Nice-6",
+        "Oyuncu Nice-7",
+        "Oyuncu Nice-8",
+        "Oyuncu Nice-9",
+        "Oyuncu Nice-10",
+        "Oyuncu Nice-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Lyon-1",
+        "Oyuncu Lyon-2",
+        "Oyuncu Lyon-3",
+        "Oyuncu Lyon-4",
+        "Oyuncu Lyon-5",
+        "Oyuncu Lyon-6",
+        "Oyuncu Lyon-7",
+        "Oyuncu Lyon-8",
+        "Oyuncu Lyon-9",
+        "Oyuncu Lyon-10",
+        "Oyuncu Lyon-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Nice-Sub1",
+        "Oyuncu Nice-Sub2",
+        "Oyuncu Nice-Sub3",
+        "Oyuncu Nice-Sub4",
+        "Oyuncu Nice-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Lyon-Sub1",
+        "Oyuncu Lyon-Sub2",
+        "Oyuncu Lyon-Sub3",
+        "Oyuncu Lyon-Sub4",
+        "Oyuncu Lyon-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Nice-1",
+          "team": "Nice"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Lyon-1",
+          "team": "Lyon"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Nice-2",
+          "team": "Nice"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "55%",
+          "away": "23%"
+        },
+        "shots": {
+          "home": 15,
+          "away": 12
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 6
+        },
+        "corners": {
+          "home": 8,
+          "away": 14
+        },
+        "fouls": {
+          "home": 10,
+          "away": 3
+        },
+        "yellowCards": {
+          "home": 4,
+          "away": 4
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 3,
+          "away": 0
+        }
+      },
+      "referee": "Hakem 34",
+      "stadium": "Stadyum 34",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu Nice-1 sakatlandı",
+        "Oyuncu Lyon-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 35,
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "VfL Wolfsburg",
+      "homeLogo": "https://via.placeholder.com/50?text=FC%20Schalke%2004",
+      "awayLogo": "https://via.placeholder.com/50?text=VfL%20Wolfsburg",
+      "score": "1-3",
+      "date": "2024-10-5",
+      "time": "13:46",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu FC Schalke 04-1",
+        "Oyuncu FC Schalke 04-2",
+        "Oyuncu FC Schalke 04-3",
+        "Oyuncu FC Schalke 04-4",
+        "Oyuncu FC Schalke 04-5",
+        "Oyuncu FC Schalke 04-6",
+        "Oyuncu FC Schalke 04-7",
+        "Oyuncu FC Schalke 04-8",
+        "Oyuncu FC Schalke 04-9",
+        "Oyuncu FC Schalke 04-10",
+        "Oyuncu FC Schalke 04-11"
+      ],
+      "awayLineup": [
+        "Oyuncu VfL Wolfsburg-1",
+        "Oyuncu VfL Wolfsburg-2",
+        "Oyuncu VfL Wolfsburg-3",
+        "Oyuncu VfL Wolfsburg-4",
+        "Oyuncu VfL Wolfsburg-5",
+        "Oyuncu VfL Wolfsburg-6",
+        "Oyuncu VfL Wolfsburg-7",
+        "Oyuncu VfL Wolfsburg-8",
+        "Oyuncu VfL Wolfsburg-9",
+        "Oyuncu VfL Wolfsburg-10",
+        "Oyuncu VfL Wolfsburg-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu FC Schalke 04-Sub1",
+        "Oyuncu FC Schalke 04-Sub2",
+        "Oyuncu FC Schalke 04-Sub3",
+        "Oyuncu FC Schalke 04-Sub4",
+        "Oyuncu FC Schalke 04-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu VfL Wolfsburg-Sub1",
+        "Oyuncu VfL Wolfsburg-Sub2",
+        "Oyuncu VfL Wolfsburg-Sub3",
+        "Oyuncu VfL Wolfsburg-Sub4",
+        "Oyuncu VfL Wolfsburg-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu FC Schalke 04-1",
+          "team": "FC Schalke 04"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu VfL Wolfsburg-1",
+          "team": "VfL Wolfsburg"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu FC Schalke 04-2",
+          "team": "FC Schalke 04"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "69%",
+          "away": "49%"
+        },
+        "shots": {
+          "home": 16,
+          "away": 4
+        },
+        "shotsOnTarget": {
+          "home": 9,
+          "away": 4
+        },
+        "corners": {
+          "home": 3,
+          "away": 0
+        },
+        "fouls": {
+          "home": 12,
+          "away": 0
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 2
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "referee": "Hakem 35",
+      "stadium": "Stadyum 35",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu FC Schalke 04-1 sakatlandı",
+        "Oyuncu VfL Wolfsburg-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 36,
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "Eintracht Frankfurt",
+      "homeLogo": "https://via.placeholder.com/50?text=Bayer%20Leverkusen",
+      "awayLogo": "https://via.placeholder.com/50?text=Eintracht%20Frankfurt",
+      "score": "4-2",
+      "date": "2024-10-6",
+      "time": "02:53",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Bayer Leverkusen-1",
+        "Oyuncu Bayer Leverkusen-2",
+        "Oyuncu Bayer Leverkusen-3",
+        "Oyuncu Bayer Leverkusen-4",
+        "Oyuncu Bayer Leverkusen-5",
+        "Oyuncu Bayer Leverkusen-6",
+        "Oyuncu Bayer Leverkusen-7",
+        "Oyuncu Bayer Leverkusen-8",
+        "Oyuncu Bayer Leverkusen-9",
+        "Oyuncu Bayer Leverkusen-10",
+        "Oyuncu Bayer Leverkusen-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Eintracht Frankfurt-1",
+        "Oyuncu Eintracht Frankfurt-2",
+        "Oyuncu Eintracht Frankfurt-3",
+        "Oyuncu Eintracht Frankfurt-4",
+        "Oyuncu Eintracht Frankfurt-5",
+        "Oyuncu Eintracht Frankfurt-6",
+        "Oyuncu Eintracht Frankfurt-7",
+        "Oyuncu Eintracht Frankfurt-8",
+        "Oyuncu Eintracht Frankfurt-9",
+        "Oyuncu Eintracht Frankfurt-10",
+        "Oyuncu Eintracht Frankfurt-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Bayer Leverkusen-Sub1",
+        "Oyuncu Bayer Leverkusen-Sub2",
+        "Oyuncu Bayer Leverkusen-Sub3",
+        "Oyuncu Bayer Leverkusen-Sub4",
+        "Oyuncu Bayer Leverkusen-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Eintracht Frankfurt-Sub1",
+        "Oyuncu Eintracht Frankfurt-Sub2",
+        "Oyuncu Eintracht Frankfurt-Sub3",
+        "Oyuncu Eintracht Frankfurt-Sub4",
+        "Oyuncu Eintracht Frankfurt-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Bayer Leverkusen-1",
+          "team": "Bayer Leverkusen"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Eintracht Frankfurt-1",
+          "team": "Eintracht Frankfurt"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Bayer Leverkusen-2",
+          "team": "Bayer Leverkusen"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "69%",
+          "away": "21%"
+        },
+        "shots": {
+          "home": 5,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 3
+        },
+        "corners": {
+          "home": 8,
+          "away": 2
+        },
+        "fouls": {
+          "home": 21,
+          "away": 8
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 3
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "referee": "Hakem 36",
+      "stadium": "Stadyum 36",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Bayer Leverkusen-1 sakatlandı",
+        "Oyuncu Eintracht Frankfurt-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 37,
+      "homeTeam": "Rennes",
+      "awayTeam": "Marseille",
+      "homeLogo": "https://via.placeholder.com/50?text=Rennes",
+      "awayLogo": "https://via.placeholder.com/50?text=Marseille",
+      "score": "0-1",
+      "date": "2024-10-7",
+      "time": "16:48",
+      "tournament": "Ligue 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Rennes-1",
+        "Oyuncu Rennes-2",
+        "Oyuncu Rennes-3",
+        "Oyuncu Rennes-4",
+        "Oyuncu Rennes-5",
+        "Oyuncu Rennes-6",
+        "Oyuncu Rennes-7",
+        "Oyuncu Rennes-8",
+        "Oyuncu Rennes-9",
+        "Oyuncu Rennes-10",
+        "Oyuncu Rennes-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Marseille-1",
+        "Oyuncu Marseille-2",
+        "Oyuncu Marseille-3",
+        "Oyuncu Marseille-4",
+        "Oyuncu Marseille-5",
+        "Oyuncu Marseille-6",
+        "Oyuncu Marseille-7",
+        "Oyuncu Marseille-8",
+        "Oyuncu Marseille-9",
+        "Oyuncu Marseille-10",
+        "Oyuncu Marseille-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Rennes-Sub1",
+        "Oyuncu Rennes-Sub2",
+        "Oyuncu Rennes-Sub3",
+        "Oyuncu Rennes-Sub4",
+        "Oyuncu Rennes-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Marseille-Sub1",
+        "Oyuncu Marseille-Sub2",
+        "Oyuncu Marseille-Sub3",
+        "Oyuncu Marseille-Sub4",
+        "Oyuncu Marseille-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Rennes-1",
+          "team": "Rennes"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Marseille-1",
+          "team": "Marseille"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Rennes-2",
+          "team": "Rennes"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "57%",
+          "away": "32%"
+        },
+        "shots": {
+          "home": 13,
+          "away": 5
+        },
+        "shotsOnTarget": {
+          "home": 6,
+          "away": 8
+        },
+        "corners": {
+          "home": 0,
+          "away": 11
+        },
+        "fouls": {
+          "home": 13,
+          "away": 7
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 9,
+          "away": 3
+        }
+      },
+      "referee": "Hakem 37",
+      "stadium": "Stadyum 37",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Rennes-1 sakatlandı",
+        "Oyuncu Marseille-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 38,
+      "homeTeam": "VfL Wolfsburg",
+      "awayTeam": "Bayern Munich",
+      "homeLogo": "https://via.placeholder.com/50?text=VfL%20Wolfsburg",
+      "awayLogo": "https://via.placeholder.com/50?text=Bayern%20Munich",
+      "score": "1-3",
+      "date": "2024-10-8",
+      "time": "16:14",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu VfL Wolfsburg-1",
+        "Oyuncu VfL Wolfsburg-2",
+        "Oyuncu VfL Wolfsburg-3",
+        "Oyuncu VfL Wolfsburg-4",
+        "Oyuncu VfL Wolfsburg-5",
+        "Oyuncu VfL Wolfsburg-6",
+        "Oyuncu VfL Wolfsburg-7",
+        "Oyuncu VfL Wolfsburg-8",
+        "Oyuncu VfL Wolfsburg-9",
+        "Oyuncu VfL Wolfsburg-10",
+        "Oyuncu VfL Wolfsburg-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Bayern Munich-1",
+        "Oyuncu Bayern Munich-2",
+        "Oyuncu Bayern Munich-3",
+        "Oyuncu Bayern Munich-4",
+        "Oyuncu Bayern Munich-5",
+        "Oyuncu Bayern Munich-6",
+        "Oyuncu Bayern Munich-7",
+        "Oyuncu Bayern Munich-8",
+        "Oyuncu Bayern Munich-9",
+        "Oyuncu Bayern Munich-10",
+        "Oyuncu Bayern Munich-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu VfL Wolfsburg-Sub1",
+        "Oyuncu VfL Wolfsburg-Sub2",
+        "Oyuncu VfL Wolfsburg-Sub3",
+        "Oyuncu VfL Wolfsburg-Sub4",
+        "Oyuncu VfL Wolfsburg-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Bayern Munich-Sub1",
+        "Oyuncu Bayern Munich-Sub2",
+        "Oyuncu Bayern Munich-Sub3",
+        "Oyuncu Bayern Munich-Sub4",
+        "Oyuncu Bayern Munich-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu VfL Wolfsburg-1",
+          "team": "VfL Wolfsburg"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Bayern Munich-1",
+          "team": "Bayern Munich"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu VfL Wolfsburg-2",
+          "team": "VfL Wolfsburg"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "53%",
+          "away": "8%"
+        },
+        "shots": {
+          "home": 4,
+          "away": 0
+        },
+        "shotsOnTarget": {
+          "home": 8,
+          "away": 4
+        },
+        "corners": {
+          "home": 0,
+          "away": 1
+        },
+        "fouls": {
+          "home": 13,
+          "away": 12
+        },
+        "yellowCards": {
+          "home": 4,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 9,
+          "away": 0
+        }
+      },
+      "referee": "Hakem 38",
+      "stadium": "Stadyum 38",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu VfL Wolfsburg-1 sakatlandı",
+        "Oyuncu Bayern Munich-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 39,
+      "homeTeam": "Athletic Bilbao",
+      "awayTeam": "Villarreal",
+      "homeLogo": "https://via.placeholder.com/50?text=Athletic%20Bilbao",
+      "awayLogo": "https://via.placeholder.com/50?text=Villarreal",
+      "score": "3-2",
+      "date": "2024-10-9",
+      "time": "03:19",
+      "tournament": "La Liga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Athletic Bilbao-1",
+        "Oyuncu Athletic Bilbao-2",
+        "Oyuncu Athletic Bilbao-3",
+        "Oyuncu Athletic Bilbao-4",
+        "Oyuncu Athletic Bilbao-5",
+        "Oyuncu Athletic Bilbao-6",
+        "Oyuncu Athletic Bilbao-7",
+        "Oyuncu Athletic Bilbao-8",
+        "Oyuncu Athletic Bilbao-9",
+        "Oyuncu Athletic Bilbao-10",
+        "Oyuncu Athletic Bilbao-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Villarreal-1",
+        "Oyuncu Villarreal-2",
+        "Oyuncu Villarreal-3",
+        "Oyuncu Villarreal-4",
+        "Oyuncu Villarreal-5",
+        "Oyuncu Villarreal-6",
+        "Oyuncu Villarreal-7",
+        "Oyuncu Villarreal-8",
+        "Oyuncu Villarreal-9",
+        "Oyuncu Villarreal-10",
+        "Oyuncu Villarreal-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Athletic Bilbao-Sub1",
+        "Oyuncu Athletic Bilbao-Sub2",
+        "Oyuncu Athletic Bilbao-Sub3",
+        "Oyuncu Athletic Bilbao-Sub4",
+        "Oyuncu Athletic Bilbao-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Villarreal-Sub1",
+        "Oyuncu Villarreal-Sub2",
+        "Oyuncu Villarreal-Sub3",
+        "Oyuncu Villarreal-Sub4",
+        "Oyuncu Villarreal-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Athletic Bilbao-1",
+          "team": "Athletic Bilbao"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Villarreal-1",
+          "team": "Villarreal"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Athletic Bilbao-2",
+          "team": "Athletic Bilbao"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "70%",
+          "away": "8%"
+        },
+        "shots": {
+          "home": 1,
+          "away": 7
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 9
+        },
+        "corners": {
+          "home": 10,
+          "away": 5
+        },
+        "fouls": {
+          "home": 11,
+          "away": 8
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 4,
+          "away": 5
+        }
+      },
+      "referee": "Hakem 39",
+      "stadium": "Stadyum 39",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Athletic Bilbao-1 sakatlandı",
+        "Oyuncu Villarreal-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 40,
+      "homeTeam": "Manchester City",
+      "awayTeam": "Leicester City",
+      "homeLogo": "https://via.placeholder.com/50?text=Manchester%20City",
+      "awayLogo": "https://via.placeholder.com/50?text=Leicester%20City",
+      "score": "2-4",
+      "date": "2024-10-10",
+      "time": "11:45",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Manchester City-1",
+        "Oyuncu Manchester City-2",
+        "Oyuncu Manchester City-3",
+        "Oyuncu Manchester City-4",
+        "Oyuncu Manchester City-5",
+        "Oyuncu Manchester City-6",
+        "Oyuncu Manchester City-7",
+        "Oyuncu Manchester City-8",
+        "Oyuncu Manchester City-9",
+        "Oyuncu Manchester City-10",
+        "Oyuncu Manchester City-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Leicester City-1",
+        "Oyuncu Leicester City-2",
+        "Oyuncu Leicester City-3",
+        "Oyuncu Leicester City-4",
+        "Oyuncu Leicester City-5",
+        "Oyuncu Leicester City-6",
+        "Oyuncu Leicester City-7",
+        "Oyuncu Leicester City-8",
+        "Oyuncu Leicester City-9",
+        "Oyuncu Leicester City-10",
+        "Oyuncu Leicester City-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Manchester City-Sub1",
+        "Oyuncu Manchester City-Sub2",
+        "Oyuncu Manchester City-Sub3",
+        "Oyuncu Manchester City-Sub4",
+        "Oyuncu Manchester City-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Leicester City-Sub1",
+        "Oyuncu Leicester City-Sub2",
+        "Oyuncu Leicester City-Sub3",
+        "Oyuncu Leicester City-Sub4",
+        "Oyuncu Leicester City-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Manchester City-1",
+          "team": "Manchester City"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Leicester City-1",
+          "team": "Leicester City"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Manchester City-2",
+          "team": "Manchester City"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "90%",
+          "away": "49%"
+        },
+        "shots": {
+          "home": 14,
+          "away": 11
+        },
+        "shotsOnTarget": {
+          "home": 0,
+          "away": 9
+        },
+        "corners": {
+          "home": 11,
+          "away": 8
+        },
+        "fouls": {
+          "home": 19,
+          "away": 15
+        },
+        "yellowCards": {
+          "home": 4,
+          "away": 0
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 1,
+          "away": 9
+        }
+      },
+      "referee": "Hakem 40",
+      "stadium": "Stadyum 40",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Manchester City-1 sakatlandı",
+        "Oyuncu Leicester City-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 41,
+      "homeTeam": "Sevilla",
+      "awayTeam": "Atletico Madrid",
+      "homeLogo": "https://via.placeholder.com/50?text=Sevilla",
+      "awayLogo": "https://via.placeholder.com/50?text=Atletico%20Madrid",
+      "score": "4-3",
+      "date": "2024-10-11",
+      "time": "06:45",
+      "tournament": "La Liga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Sevilla-1",
+        "Oyuncu Sevilla-2",
+        "Oyuncu Sevilla-3",
+        "Oyuncu Sevilla-4",
+        "Oyuncu Sevilla-5",
+        "Oyuncu Sevilla-6",
+        "Oyuncu Sevilla-7",
+        "Oyuncu Sevilla-8",
+        "Oyuncu Sevilla-9",
+        "Oyuncu Sevilla-10",
+        "Oyuncu Sevilla-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Atletico Madrid-1",
+        "Oyuncu Atletico Madrid-2",
+        "Oyuncu Atletico Madrid-3",
+        "Oyuncu Atletico Madrid-4",
+        "Oyuncu Atletico Madrid-5",
+        "Oyuncu Atletico Madrid-6",
+        "Oyuncu Atletico Madrid-7",
+        "Oyuncu Atletico Madrid-8",
+        "Oyuncu Atletico Madrid-9",
+        "Oyuncu Atletico Madrid-10",
+        "Oyuncu Atletico Madrid-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Sevilla-Sub1",
+        "Oyuncu Sevilla-Sub2",
+        "Oyuncu Sevilla-Sub3",
+        "Oyuncu Sevilla-Sub4",
+        "Oyuncu Sevilla-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Atletico Madrid-Sub1",
+        "Oyuncu Atletico Madrid-Sub2",
+        "Oyuncu Atletico Madrid-Sub3",
+        "Oyuncu Atletico Madrid-Sub4",
+        "Oyuncu Atletico Madrid-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Sevilla-1",
+          "team": "Sevilla"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Atletico Madrid-1",
+          "team": "Atletico Madrid"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Sevilla-2",
+          "team": "Sevilla"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "89%",
+          "away": "18%"
+        },
+        "shots": {
+          "home": 9,
+          "away": 11
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 7
+        },
+        "corners": {
+          "home": 5,
+          "away": 7
+        },
+        "fouls": {
+          "home": 10,
+          "away": 10
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 3
+        },
+        "redCards": {
+          "home": 1,
+          "away": 1
+        },
+        "offsides": {
+          "home": 1,
+          "away": 7
+        }
+      },
+      "referee": "Hakem 41",
+      "stadium": "Stadyum 41",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu Sevilla-1 sakatlandı",
+        "Oyuncu Atletico Madrid-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 42,
+      "homeTeam": "Hertha BSC",
+      "awayTeam": "Bayern Munich",
+      "homeLogo": "https://via.placeholder.com/50?text=Hertha%20BSC",
+      "awayLogo": "https://via.placeholder.com/50?text=Bayern%20Munich",
+      "score": "0-3",
+      "date": "2024-10-12",
+      "time": "06:00",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Hertha BSC-1",
+        "Oyuncu Hertha BSC-2",
+        "Oyuncu Hertha BSC-3",
+        "Oyuncu Hertha BSC-4",
+        "Oyuncu Hertha BSC-5",
+        "Oyuncu Hertha BSC-6",
+        "Oyuncu Hertha BSC-7",
+        "Oyuncu Hertha BSC-8",
+        "Oyuncu Hertha BSC-9",
+        "Oyuncu Hertha BSC-10",
+        "Oyuncu Hertha BSC-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Bayern Munich-1",
+        "Oyuncu Bayern Munich-2",
+        "Oyuncu Bayern Munich-3",
+        "Oyuncu Bayern Munich-4",
+        "Oyuncu Bayern Munich-5",
+        "Oyuncu Bayern Munich-6",
+        "Oyuncu Bayern Munich-7",
+        "Oyuncu Bayern Munich-8",
+        "Oyuncu Bayern Munich-9",
+        "Oyuncu Bayern Munich-10",
+        "Oyuncu Bayern Munich-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Hertha BSC-Sub1",
+        "Oyuncu Hertha BSC-Sub2",
+        "Oyuncu Hertha BSC-Sub3",
+        "Oyuncu Hertha BSC-Sub4",
+        "Oyuncu Hertha BSC-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Bayern Munich-Sub1",
+        "Oyuncu Bayern Munich-Sub2",
+        "Oyuncu Bayern Munich-Sub3",
+        "Oyuncu Bayern Munich-Sub4",
+        "Oyuncu Bayern Munich-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Hertha BSC-1",
+          "team": "Hertha BSC"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Bayern Munich-1",
+          "team": "Bayern Munich"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Hertha BSC-2",
+          "team": "Hertha BSC"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "56%",
+          "away": "48%"
+        },
+        "shots": {
+          "home": 16,
+          "away": 4
+        },
+        "shotsOnTarget": {
+          "home": 1,
+          "away": 7
+        },
+        "corners": {
+          "home": 10,
+          "away": 12
+        },
+        "fouls": {
+          "home": 1,
+          "away": 4
+        },
+        "yellowCards": {
+          "home": 4,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 5,
+          "away": 9
+        }
+      },
+      "referee": "Hakem 42",
+      "stadium": "Stadyum 42",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Hertha BSC-1 sakatlandı",
+        "Oyuncu Bayern Munich-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 43,
+      "homeTeam": "Barcelona",
+      "awayTeam": "Real Sociedad",
+      "homeLogo": "https://via.placeholder.com/50?text=Barcelona",
+      "awayLogo": "https://via.placeholder.com/50?text=Real%20Sociedad",
+      "score": "4-1",
+      "date": "2024-10-13",
+      "time": "16:47",
+      "tournament": "La Liga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Barcelona-1",
+        "Oyuncu Barcelona-2",
+        "Oyuncu Barcelona-3",
+        "Oyuncu Barcelona-4",
+        "Oyuncu Barcelona-5",
+        "Oyuncu Barcelona-6",
+        "Oyuncu Barcelona-7",
+        "Oyuncu Barcelona-8",
+        "Oyuncu Barcelona-9",
+        "Oyuncu Barcelona-10",
+        "Oyuncu Barcelona-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Real Sociedad-1",
+        "Oyuncu Real Sociedad-2",
+        "Oyuncu Real Sociedad-3",
+        "Oyuncu Real Sociedad-4",
+        "Oyuncu Real Sociedad-5",
+        "Oyuncu Real Sociedad-6",
+        "Oyuncu Real Sociedad-7",
+        "Oyuncu Real Sociedad-8",
+        "Oyuncu Real Sociedad-9",
+        "Oyuncu Real Sociedad-10",
+        "Oyuncu Real Sociedad-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Barcelona-Sub1",
+        "Oyuncu Barcelona-Sub2",
+        "Oyuncu Barcelona-Sub3",
+        "Oyuncu Barcelona-Sub4",
+        "Oyuncu Barcelona-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Real Sociedad-Sub1",
+        "Oyuncu Real Sociedad-Sub2",
+        "Oyuncu Real Sociedad-Sub3",
+        "Oyuncu Real Sociedad-Sub4",
+        "Oyuncu Real Sociedad-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Barcelona-1",
+          "team": "Barcelona"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Real Sociedad-1",
+          "team": "Real Sociedad"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Barcelona-2",
+          "team": "Barcelona"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "95%",
+          "away": "1%"
+        },
+        "shots": {
+          "home": 6,
+          "away": 4
+        },
+        "shotsOnTarget": {
+          "home": 0,
+          "away": 4
+        },
+        "corners": {
+          "home": 13,
+          "away": 1
+        },
+        "fouls": {
+          "home": 17,
+          "away": 19
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 3
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 5,
+          "away": 6
+        }
+      },
+      "referee": "Hakem 43",
+      "stadium": "Stadyum 43",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Barcelona-1 sakatlandı",
+        "Oyuncu Real Sociedad-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 44,
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Atalanta",
+      "homeLogo": "https://via.placeholder.com/50?text=Fiorentina",
+      "awayLogo": "https://via.placeholder.com/50?text=Atalanta",
+      "score": "1-0",
+      "date": "2024-10-14",
+      "time": "02:34",
+      "tournament": "Serie A",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Fiorentina-1",
+        "Oyuncu Fiorentina-2",
+        "Oyuncu Fiorentina-3",
+        "Oyuncu Fiorentina-4",
+        "Oyuncu Fiorentina-5",
+        "Oyuncu Fiorentina-6",
+        "Oyuncu Fiorentina-7",
+        "Oyuncu Fiorentina-8",
+        "Oyuncu Fiorentina-9",
+        "Oyuncu Fiorentina-10",
+        "Oyuncu Fiorentina-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Atalanta-1",
+        "Oyuncu Atalanta-2",
+        "Oyuncu Atalanta-3",
+        "Oyuncu Atalanta-4",
+        "Oyuncu Atalanta-5",
+        "Oyuncu Atalanta-6",
+        "Oyuncu Atalanta-7",
+        "Oyuncu Atalanta-8",
+        "Oyuncu Atalanta-9",
+        "Oyuncu Atalanta-10",
+        "Oyuncu Atalanta-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Fiorentina-Sub1",
+        "Oyuncu Fiorentina-Sub2",
+        "Oyuncu Fiorentina-Sub3",
+        "Oyuncu Fiorentina-Sub4",
+        "Oyuncu Fiorentina-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Atalanta-Sub1",
+        "Oyuncu Atalanta-Sub2",
+        "Oyuncu Atalanta-Sub3",
+        "Oyuncu Atalanta-Sub4",
+        "Oyuncu Atalanta-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Fiorentina-1",
+          "team": "Fiorentina"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Atalanta-1",
+          "team": "Atalanta"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Fiorentina-2",
+          "team": "Fiorentina"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "54%",
+          "away": "38%"
+        },
+        "shots": {
+          "home": 17,
+          "away": 12
+        },
+        "shotsOnTarget": {
+          "home": 0,
+          "away": 0
+        },
+        "corners": {
+          "home": 13,
+          "away": 8
+        },
+        "fouls": {
+          "home": 1,
+          "away": 15
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 8,
+          "away": 9
+        }
+      },
+      "referee": "Hakem 44",
+      "stadium": "Stadyum 44",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Fiorentina-1 sakatlandı",
+        "Oyuncu Atalanta-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 45,
+      "homeTeam": "Marseille",
+      "awayTeam": "Paris Saint-Germain",
+      "homeLogo": "https://via.placeholder.com/50?text=Marseille",
+      "awayLogo": "https://via.placeholder.com/50?text=Paris%20Saint-Germain",
+      "score": "1-2",
+      "date": "2024-10-15",
+      "time": "06:27",
+      "tournament": "Ligue 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Marseille-1",
+        "Oyuncu Marseille-2",
+        "Oyuncu Marseille-3",
+        "Oyuncu Marseille-4",
+        "Oyuncu Marseille-5",
+        "Oyuncu Marseille-6",
+        "Oyuncu Marseille-7",
+        "Oyuncu Marseille-8",
+        "Oyuncu Marseille-9",
+        "Oyuncu Marseille-10",
+        "Oyuncu Marseille-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Paris Saint-Germain-1",
+        "Oyuncu Paris Saint-Germain-2",
+        "Oyuncu Paris Saint-Germain-3",
+        "Oyuncu Paris Saint-Germain-4",
+        "Oyuncu Paris Saint-Germain-5",
+        "Oyuncu Paris Saint-Germain-6",
+        "Oyuncu Paris Saint-Germain-7",
+        "Oyuncu Paris Saint-Germain-8",
+        "Oyuncu Paris Saint-Germain-9",
+        "Oyuncu Paris Saint-Germain-10",
+        "Oyuncu Paris Saint-Germain-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Marseille-Sub1",
+        "Oyuncu Marseille-Sub2",
+        "Oyuncu Marseille-Sub3",
+        "Oyuncu Marseille-Sub4",
+        "Oyuncu Marseille-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Paris Saint-Germain-Sub1",
+        "Oyuncu Paris Saint-Germain-Sub2",
+        "Oyuncu Paris Saint-Germain-Sub3",
+        "Oyuncu Paris Saint-Germain-Sub4",
+        "Oyuncu Paris Saint-Germain-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Marseille-1",
+          "team": "Marseille"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Paris Saint-Germain-1",
+          "team": "Paris Saint-Germain"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Marseille-2",
+          "team": "Marseille"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "51%",
+          "away": "27%"
+        },
+        "shots": {
+          "home": 0,
+          "away": 5
+        },
+        "shotsOnTarget": {
+          "home": 9,
+          "away": 0
+        },
+        "corners": {
+          "home": 13,
+          "away": 10
+        },
+        "fouls": {
+          "home": 11,
+          "away": 20
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 4
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 0,
+          "away": 7
+        }
+      },
+      "referee": "Hakem 45",
+      "stadium": "Stadyum 45",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Marseille-1 sakatlandı",
+        "Oyuncu Paris Saint-Germain-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 46,
+      "homeTeam": "Leeds United",
+      "awayTeam": "Chelsea",
+      "homeLogo": "https://via.placeholder.com/50?text=Leeds%20United",
+      "awayLogo": "https://via.placeholder.com/50?text=Chelsea",
+      "score": "2-0",
+      "date": "2024-10-16",
+      "time": "23:59",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Leeds United-1",
+        "Oyuncu Leeds United-2",
+        "Oyuncu Leeds United-3",
+        "Oyuncu Leeds United-4",
+        "Oyuncu Leeds United-5",
+        "Oyuncu Leeds United-6",
+        "Oyuncu Leeds United-7",
+        "Oyuncu Leeds United-8",
+        "Oyuncu Leeds United-9",
+        "Oyuncu Leeds United-10",
+        "Oyuncu Leeds United-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Chelsea-1",
+        "Oyuncu Chelsea-2",
+        "Oyuncu Chelsea-3",
+        "Oyuncu Chelsea-4",
+        "Oyuncu Chelsea-5",
+        "Oyuncu Chelsea-6",
+        "Oyuncu Chelsea-7",
+        "Oyuncu Chelsea-8",
+        "Oyuncu Chelsea-9",
+        "Oyuncu Chelsea-10",
+        "Oyuncu Chelsea-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Leeds United-Sub1",
+        "Oyuncu Leeds United-Sub2",
+        "Oyuncu Leeds United-Sub3",
+        "Oyuncu Leeds United-Sub4",
+        "Oyuncu Leeds United-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Chelsea-Sub1",
+        "Oyuncu Chelsea-Sub2",
+        "Oyuncu Chelsea-Sub3",
+        "Oyuncu Chelsea-Sub4",
+        "Oyuncu Chelsea-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Leeds United-1",
+          "team": "Leeds United"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Chelsea-1",
+          "team": "Chelsea"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Leeds United-2",
+          "team": "Leeds United"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "77%",
+          "away": "28%"
+        },
+        "shots": {
+          "home": 6,
+          "away": 5
+        },
+        "shotsOnTarget": {
+          "home": 4,
+          "away": 7
+        },
+        "corners": {
+          "home": 3,
+          "away": 4
+        },
+        "fouls": {
+          "home": 6,
+          "away": 6
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 1
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 7,
+          "away": 7
+        }
+      },
+      "referee": "Hakem 46",
+      "stadium": "Stadyum 46",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Leeds United-1 sakatlandı",
+        "Oyuncu Chelsea-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 47,
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "VfL Wolfsburg",
+      "homeLogo": "https://via.placeholder.com/50?text=FC%20Schalke%2004",
+      "awayLogo": "https://via.placeholder.com/50?text=VfL%20Wolfsburg",
+      "score": "3-3",
+      "date": "2024-10-17",
+      "time": "13:24",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu FC Schalke 04-1",
+        "Oyuncu FC Schalke 04-2",
+        "Oyuncu FC Schalke 04-3",
+        "Oyuncu FC Schalke 04-4",
+        "Oyuncu FC Schalke 04-5",
+        "Oyuncu FC Schalke 04-6",
+        "Oyuncu FC Schalke 04-7",
+        "Oyuncu FC Schalke 04-8",
+        "Oyuncu FC Schalke 04-9",
+        "Oyuncu FC Schalke 04-10",
+        "Oyuncu FC Schalke 04-11"
+      ],
+      "awayLineup": [
+        "Oyuncu VfL Wolfsburg-1",
+        "Oyuncu VfL Wolfsburg-2",
+        "Oyuncu VfL Wolfsburg-3",
+        "Oyuncu VfL Wolfsburg-4",
+        "Oyuncu VfL Wolfsburg-5",
+        "Oyuncu VfL Wolfsburg-6",
+        "Oyuncu VfL Wolfsburg-7",
+        "Oyuncu VfL Wolfsburg-8",
+        "Oyuncu VfL Wolfsburg-9",
+        "Oyuncu VfL Wolfsburg-10",
+        "Oyuncu VfL Wolfsburg-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu FC Schalke 04-Sub1",
+        "Oyuncu FC Schalke 04-Sub2",
+        "Oyuncu FC Schalke 04-Sub3",
+        "Oyuncu FC Schalke 04-Sub4",
+        "Oyuncu FC Schalke 04-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu VfL Wolfsburg-Sub1",
+        "Oyuncu VfL Wolfsburg-Sub2",
+        "Oyuncu VfL Wolfsburg-Sub3",
+        "Oyuncu VfL Wolfsburg-Sub4",
+        "Oyuncu VfL Wolfsburg-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu FC Schalke 04-1",
+          "team": "FC Schalke 04"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu VfL Wolfsburg-1",
+          "team": "VfL Wolfsburg"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu FC Schalke 04-2",
+          "team": "FC Schalke 04"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "86%",
+          "away": "9%"
+        },
+        "shots": {
+          "home": 6,
+          "away": 12
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 8
+        },
+        "corners": {
+          "home": 3,
+          "away": 0
+        },
+        "fouls": {
+          "home": 22,
+          "away": 7
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 2
+        },
+        "redCards": {
+          "home": 1,
+          "away": 1
+        },
+        "offsides": {
+          "home": 7,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 47",
+      "stadium": "Stadyum 47",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu FC Schalke 04-1 sakatlandı",
+        "Oyuncu VfL Wolfsburg-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 48,
+      "homeTeam": "Manchester United",
+      "awayTeam": "Everton",
+      "homeLogo": "https://via.placeholder.com/50?text=Manchester%20United",
+      "awayLogo": "https://via.placeholder.com/50?text=Everton",
+      "score": "3-4",
+      "date": "2024-10-18",
+      "time": "19:53",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Manchester United-1",
+        "Oyuncu Manchester United-2",
+        "Oyuncu Manchester United-3",
+        "Oyuncu Manchester United-4",
+        "Oyuncu Manchester United-5",
+        "Oyuncu Manchester United-6",
+        "Oyuncu Manchester United-7",
+        "Oyuncu Manchester United-8",
+        "Oyuncu Manchester United-9",
+        "Oyuncu Manchester United-10",
+        "Oyuncu Manchester United-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Everton-1",
+        "Oyuncu Everton-2",
+        "Oyuncu Everton-3",
+        "Oyuncu Everton-4",
+        "Oyuncu Everton-5",
+        "Oyuncu Everton-6",
+        "Oyuncu Everton-7",
+        "Oyuncu Everton-8",
+        "Oyuncu Everton-9",
+        "Oyuncu Everton-10",
+        "Oyuncu Everton-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Manchester United-Sub1",
+        "Oyuncu Manchester United-Sub2",
+        "Oyuncu Manchester United-Sub3",
+        "Oyuncu Manchester United-Sub4",
+        "Oyuncu Manchester United-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Everton-Sub1",
+        "Oyuncu Everton-Sub2",
+        "Oyuncu Everton-Sub3",
+        "Oyuncu Everton-Sub4",
+        "Oyuncu Everton-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Manchester United-1",
+          "team": "Manchester United"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Everton-1",
+          "team": "Everton"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Manchester United-2",
+          "team": "Manchester United"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "51%",
+          "away": "31%"
+        },
+        "shots": {
+          "home": 15,
+          "away": 19
+        },
+        "shotsOnTarget": {
+          "home": 9,
+          "away": 9
+        },
+        "corners": {
+          "home": 4,
+          "away": 4
+        },
+        "fouls": {
+          "home": 2,
+          "away": 20
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 4,
+          "away": 9
+        }
+      },
+      "referee": "Hakem 48",
+      "stadium": "Stadyum 48",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Manchester United-1 sakatlandı",
+        "Oyuncu Everton-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 49,
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Eintracht Frankfurt",
+      "homeLogo": "https://via.placeholder.com/50?text=Bayern%20Munich",
+      "awayLogo": "https://via.placeholder.com/50?text=Eintracht%20Frankfurt",
+      "score": "3-4",
+      "date": "2024-10-19",
+      "time": "16:52",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Bayern Munich-1",
+        "Oyuncu Bayern Munich-2",
+        "Oyuncu Bayern Munich-3",
+        "Oyuncu Bayern Munich-4",
+        "Oyuncu Bayern Munich-5",
+        "Oyuncu Bayern Munich-6",
+        "Oyuncu Bayern Munich-7",
+        "Oyuncu Bayern Munich-8",
+        "Oyuncu Bayern Munich-9",
+        "Oyuncu Bayern Munich-10",
+        "Oyuncu Bayern Munich-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Eintracht Frankfurt-1",
+        "Oyuncu Eintracht Frankfurt-2",
+        "Oyuncu Eintracht Frankfurt-3",
+        "Oyuncu Eintracht Frankfurt-4",
+        "Oyuncu Eintracht Frankfurt-5",
+        "Oyuncu Eintracht Frankfurt-6",
+        "Oyuncu Eintracht Frankfurt-7",
+        "Oyuncu Eintracht Frankfurt-8",
+        "Oyuncu Eintracht Frankfurt-9",
+        "Oyuncu Eintracht Frankfurt-10",
+        "Oyuncu Eintracht Frankfurt-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Bayern Munich-Sub1",
+        "Oyuncu Bayern Munich-Sub2",
+        "Oyuncu Bayern Munich-Sub3",
+        "Oyuncu Bayern Munich-Sub4",
+        "Oyuncu Bayern Munich-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Eintracht Frankfurt-Sub1",
+        "Oyuncu Eintracht Frankfurt-Sub2",
+        "Oyuncu Eintracht Frankfurt-Sub3",
+        "Oyuncu Eintracht Frankfurt-Sub4",
+        "Oyuncu Eintracht Frankfurt-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Bayern Munich-1",
+          "team": "Bayern Munich"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Eintracht Frankfurt-1",
+          "team": "Eintracht Frankfurt"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Bayern Munich-2",
+          "team": "Bayern Munich"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "50%",
+          "away": "14%"
+        },
+        "shots": {
+          "home": 18,
+          "away": 4
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 4
+        },
+        "corners": {
+          "home": 6,
+          "away": 14
+        },
+        "fouls": {
+          "home": 5,
+          "away": 1
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 5,
+          "away": 6
+        }
+      },
+      "referee": "Hakem 49",
+      "stadium": "Stadyum 49",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Bayern Munich-1 sakatlandı",
+        "Oyuncu Eintracht Frankfurt-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 50,
+      "homeTeam": "Villarreal",
+      "awayTeam": "Levante",
+      "homeLogo": "https://via.placeholder.com/50?text=Villarreal",
+      "awayLogo": "https://via.placeholder.com/50?text=Levante",
+      "score": "3-2",
+      "date": "2024-10-20",
+      "time": "02:19",
+      "tournament": "La Liga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Villarreal-1",
+        "Oyuncu Villarreal-2",
+        "Oyuncu Villarreal-3",
+        "Oyuncu Villarreal-4",
+        "Oyuncu Villarreal-5",
+        "Oyuncu Villarreal-6",
+        "Oyuncu Villarreal-7",
+        "Oyuncu Villarreal-8",
+        "Oyuncu Villarreal-9",
+        "Oyuncu Villarreal-10",
+        "Oyuncu Villarreal-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Levante-1",
+        "Oyuncu Levante-2",
+        "Oyuncu Levante-3",
+        "Oyuncu Levante-4",
+        "Oyuncu Levante-5",
+        "Oyuncu Levante-6",
+        "Oyuncu Levante-7",
+        "Oyuncu Levante-8",
+        "Oyuncu Levante-9",
+        "Oyuncu Levante-10",
+        "Oyuncu Levante-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Villarreal-Sub1",
+        "Oyuncu Villarreal-Sub2",
+        "Oyuncu Villarreal-Sub3",
+        "Oyuncu Villarreal-Sub4",
+        "Oyuncu Villarreal-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Levante-Sub1",
+        "Oyuncu Levante-Sub2",
+        "Oyuncu Levante-Sub3",
+        "Oyuncu Levante-Sub4",
+        "Oyuncu Levante-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Villarreal-1",
+          "team": "Villarreal"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Levante-1",
+          "team": "Levante"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Villarreal-2",
+          "team": "Villarreal"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "51%",
+          "away": "3%"
+        },
+        "shots": {
+          "home": 17,
+          "away": 3
+        },
+        "shotsOnTarget": {
+          "home": 9,
+          "away": 4
+        },
+        "corners": {
+          "home": 4,
+          "away": 7
+        },
+        "fouls": {
+          "home": 5,
+          "away": 18
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 3,
+          "away": 0
+        }
+      },
+      "referee": "Hakem 50",
+      "stadium": "Stadyum 50",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Villarreal-1 sakatlandı",
+        "Oyuncu Levante-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 51,
+      "homeTeam": "Hertha BSC",
+      "awayTeam": "Eintracht Frankfurt",
+      "homeLogo": "https://via.placeholder.com/50?text=Hertha%20BSC",
+      "awayLogo": "https://via.placeholder.com/50?text=Eintracht%20Frankfurt",
+      "score": "0-4",
+      "date": "2024-10-21",
+      "time": "21:06",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Hertha BSC-1",
+        "Oyuncu Hertha BSC-2",
+        "Oyuncu Hertha BSC-3",
+        "Oyuncu Hertha BSC-4",
+        "Oyuncu Hertha BSC-5",
+        "Oyuncu Hertha BSC-6",
+        "Oyuncu Hertha BSC-7",
+        "Oyuncu Hertha BSC-8",
+        "Oyuncu Hertha BSC-9",
+        "Oyuncu Hertha BSC-10",
+        "Oyuncu Hertha BSC-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Eintracht Frankfurt-1",
+        "Oyuncu Eintracht Frankfurt-2",
+        "Oyuncu Eintracht Frankfurt-3",
+        "Oyuncu Eintracht Frankfurt-4",
+        "Oyuncu Eintracht Frankfurt-5",
+        "Oyuncu Eintracht Frankfurt-6",
+        "Oyuncu Eintracht Frankfurt-7",
+        "Oyuncu Eintracht Frankfurt-8",
+        "Oyuncu Eintracht Frankfurt-9",
+        "Oyuncu Eintracht Frankfurt-10",
+        "Oyuncu Eintracht Frankfurt-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Hertha BSC-Sub1",
+        "Oyuncu Hertha BSC-Sub2",
+        "Oyuncu Hertha BSC-Sub3",
+        "Oyuncu Hertha BSC-Sub4",
+        "Oyuncu Hertha BSC-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Eintracht Frankfurt-Sub1",
+        "Oyuncu Eintracht Frankfurt-Sub2",
+        "Oyuncu Eintracht Frankfurt-Sub3",
+        "Oyuncu Eintracht Frankfurt-Sub4",
+        "Oyuncu Eintracht Frankfurt-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Hertha BSC-1",
+          "team": "Hertha BSC"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Eintracht Frankfurt-1",
+          "team": "Eintracht Frankfurt"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Hertha BSC-2",
+          "team": "Hertha BSC"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "70%",
+          "away": "45%"
+        },
+        "shots": {
+          "home": 15,
+          "away": 2
+        },
+        "shotsOnTarget": {
+          "home": 8,
+          "away": 8
+        },
+        "corners": {
+          "home": 10,
+          "away": 9
+        },
+        "fouls": {
+          "home": 17,
+          "away": 1
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 2
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 8,
+          "away": 1
+        }
+      },
+      "referee": "Hakem 51",
+      "stadium": "Stadyum 51",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Hertha BSC-1 sakatlandı",
+        "Oyuncu Eintracht Frankfurt-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 52,
+      "homeTeam": "Borussia Mönchengladbach",
+      "awayTeam": "Hertha BSC",
+      "homeLogo": "https://via.placeholder.com/50?text=Borussia%20M%C3%B6nchengladbach",
+      "awayLogo": "https://via.placeholder.com/50?text=Hertha%20BSC",
+      "score": "0-4",
+      "date": "2024-10-22",
+      "time": "09:01",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Borussia Mönchengladbach-1",
+        "Oyuncu Borussia Mönchengladbach-2",
+        "Oyuncu Borussia Mönchengladbach-3",
+        "Oyuncu Borussia Mönchengladbach-4",
+        "Oyuncu Borussia Mönchengladbach-5",
+        "Oyuncu Borussia Mönchengladbach-6",
+        "Oyuncu Borussia Mönchengladbach-7",
+        "Oyuncu Borussia Mönchengladbach-8",
+        "Oyuncu Borussia Mönchengladbach-9",
+        "Oyuncu Borussia Mönchengladbach-10",
+        "Oyuncu Borussia Mönchengladbach-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Hertha BSC-1",
+        "Oyuncu Hertha BSC-2",
+        "Oyuncu Hertha BSC-3",
+        "Oyuncu Hertha BSC-4",
+        "Oyuncu Hertha BSC-5",
+        "Oyuncu Hertha BSC-6",
+        "Oyuncu Hertha BSC-7",
+        "Oyuncu Hertha BSC-8",
+        "Oyuncu Hertha BSC-9",
+        "Oyuncu Hertha BSC-10",
+        "Oyuncu Hertha BSC-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Borussia Mönchengladbach-Sub1",
+        "Oyuncu Borussia Mönchengladbach-Sub2",
+        "Oyuncu Borussia Mönchengladbach-Sub3",
+        "Oyuncu Borussia Mönchengladbach-Sub4",
+        "Oyuncu Borussia Mönchengladbach-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Hertha BSC-Sub1",
+        "Oyuncu Hertha BSC-Sub2",
+        "Oyuncu Hertha BSC-Sub3",
+        "Oyuncu Hertha BSC-Sub4",
+        "Oyuncu Hertha BSC-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Borussia Mönchengladbach-1",
+          "team": "Borussia Mönchengladbach"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Hertha BSC-1",
+          "team": "Hertha BSC"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Borussia Mönchengladbach-2",
+          "team": "Borussia Mönchengladbach"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "78%",
+          "away": "12%"
+        },
+        "shots": {
+          "home": 11,
+          "away": 13
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 4
+        },
+        "corners": {
+          "home": 12,
+          "away": 3
+        },
+        "fouls": {
+          "home": 11,
+          "away": 6
+        },
+        "yellowCards": {
+          "home": 3,
+          "away": 2
+        },
+        "redCards": {
+          "home": 1,
+          "away": 1
+        },
+        "offsides": {
+          "home": 7,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 52",
+      "stadium": "Stadyum 52",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Borussia Mönchengladbach-1 sakatlandı",
+        "Oyuncu Hertha BSC-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 53,
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Atalanta",
+      "homeLogo": "https://via.placeholder.com/50?text=Fiorentina",
+      "awayLogo": "https://via.placeholder.com/50?text=Atalanta",
+      "score": "1-2",
+      "date": "2024-10-23",
+      "time": "01:37",
+      "tournament": "Serie A",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Fiorentina-1",
+        "Oyuncu Fiorentina-2",
+        "Oyuncu Fiorentina-3",
+        "Oyuncu Fiorentina-4",
+        "Oyuncu Fiorentina-5",
+        "Oyuncu Fiorentina-6",
+        "Oyuncu Fiorentina-7",
+        "Oyuncu Fiorentina-8",
+        "Oyuncu Fiorentina-9",
+        "Oyuncu Fiorentina-10",
+        "Oyuncu Fiorentina-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Atalanta-1",
+        "Oyuncu Atalanta-2",
+        "Oyuncu Atalanta-3",
+        "Oyuncu Atalanta-4",
+        "Oyuncu Atalanta-5",
+        "Oyuncu Atalanta-6",
+        "Oyuncu Atalanta-7",
+        "Oyuncu Atalanta-8",
+        "Oyuncu Atalanta-9",
+        "Oyuncu Atalanta-10",
+        "Oyuncu Atalanta-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Fiorentina-Sub1",
+        "Oyuncu Fiorentina-Sub2",
+        "Oyuncu Fiorentina-Sub3",
+        "Oyuncu Fiorentina-Sub4",
+        "Oyuncu Fiorentina-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Atalanta-Sub1",
+        "Oyuncu Atalanta-Sub2",
+        "Oyuncu Atalanta-Sub3",
+        "Oyuncu Atalanta-Sub4",
+        "Oyuncu Atalanta-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Fiorentina-1",
+          "team": "Fiorentina"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Atalanta-1",
+          "team": "Atalanta"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Fiorentina-2",
+          "team": "Fiorentina"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "80%",
+          "away": "27%"
+        },
+        "shots": {
+          "home": 13,
+          "away": 3
+        },
+        "shotsOnTarget": {
+          "home": 6,
+          "away": 6
+        },
+        "corners": {
+          "home": 5,
+          "away": 4
+        },
+        "fouls": {
+          "home": 4,
+          "away": 6
+        },
+        "yellowCards": {
+          "home": 4,
+          "away": 0
+        },
+        "redCards": {
+          "home": 1,
+          "away": 0
+        },
+        "offsides": {
+          "home": 2,
+          "away": 6
+        }
+      },
+      "referee": "Hakem 53",
+      "stadium": "Stadyum 53",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu Fiorentina-1 sakatlandı",
+        "Oyuncu Atalanta-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 54,
+      "homeTeam": "Juventus",
+      "awayTeam": "Udinese",
+      "homeLogo": "https://via.placeholder.com/50?text=Juventus",
+      "awayLogo": "https://via.placeholder.com/50?text=Udinese",
+      "score": "2-1",
+      "date": "2024-10-24",
+      "time": "05:21",
+      "tournament": "Serie A",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Juventus-1",
+        "Oyuncu Juventus-2",
+        "Oyuncu Juventus-3",
+        "Oyuncu Juventus-4",
+        "Oyuncu Juventus-5",
+        "Oyuncu Juventus-6",
+        "Oyuncu Juventus-7",
+        "Oyuncu Juventus-8",
+        "Oyuncu Juventus-9",
+        "Oyuncu Juventus-10",
+        "Oyuncu Juventus-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Udinese-1",
+        "Oyuncu Udinese-2",
+        "Oyuncu Udinese-3",
+        "Oyuncu Udinese-4",
+        "Oyuncu Udinese-5",
+        "Oyuncu Udinese-6",
+        "Oyuncu Udinese-7",
+        "Oyuncu Udinese-8",
+        "Oyuncu Udinese-9",
+        "Oyuncu Udinese-10",
+        "Oyuncu Udinese-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Juventus-Sub1",
+        "Oyuncu Juventus-Sub2",
+        "Oyuncu Juventus-Sub3",
+        "Oyuncu Juventus-Sub4",
+        "Oyuncu Juventus-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Udinese-Sub1",
+        "Oyuncu Udinese-Sub2",
+        "Oyuncu Udinese-Sub3",
+        "Oyuncu Udinese-Sub4",
+        "Oyuncu Udinese-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Juventus-1",
+          "team": "Juventus"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Udinese-1",
+          "team": "Udinese"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Juventus-2",
+          "team": "Juventus"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "89%",
+          "away": "47%"
+        },
+        "shots": {
+          "home": 16,
+          "away": 14
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 6
+        },
+        "corners": {
+          "home": 1,
+          "away": 0
+        },
+        "fouls": {
+          "home": 20,
+          "away": 15
+        },
+        "yellowCards": {
+          "home": 4,
+          "away": 3
+        },
+        "redCards": {
+          "home": 1,
+          "away": 1
+        },
+        "offsides": {
+          "home": 4,
+          "away": 5
+        }
+      },
+      "referee": "Hakem 54",
+      "stadium": "Stadyum 54",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Juventus-1 sakatlandı",
+        "Oyuncu Udinese-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 55,
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Barcelona",
+      "homeLogo": "https://via.placeholder.com/50?text=Atletico%20Madrid",
+      "awayLogo": "https://via.placeholder.com/50?text=Barcelona",
+      "score": "0-3",
+      "date": "2024-10-25",
+      "time": "21:46",
+      "tournament": "La Liga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Atletico Madrid-1",
+        "Oyuncu Atletico Madrid-2",
+        "Oyuncu Atletico Madrid-3",
+        "Oyuncu Atletico Madrid-4",
+        "Oyuncu Atletico Madrid-5",
+        "Oyuncu Atletico Madrid-6",
+        "Oyuncu Atletico Madrid-7",
+        "Oyuncu Atletico Madrid-8",
+        "Oyuncu Atletico Madrid-9",
+        "Oyuncu Atletico Madrid-10",
+        "Oyuncu Atletico Madrid-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Barcelona-1",
+        "Oyuncu Barcelona-2",
+        "Oyuncu Barcelona-3",
+        "Oyuncu Barcelona-4",
+        "Oyuncu Barcelona-5",
+        "Oyuncu Barcelona-6",
+        "Oyuncu Barcelona-7",
+        "Oyuncu Barcelona-8",
+        "Oyuncu Barcelona-9",
+        "Oyuncu Barcelona-10",
+        "Oyuncu Barcelona-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Atletico Madrid-Sub1",
+        "Oyuncu Atletico Madrid-Sub2",
+        "Oyuncu Atletico Madrid-Sub3",
+        "Oyuncu Atletico Madrid-Sub4",
+        "Oyuncu Atletico Madrid-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Barcelona-Sub1",
+        "Oyuncu Barcelona-Sub2",
+        "Oyuncu Barcelona-Sub3",
+        "Oyuncu Barcelona-Sub4",
+        "Oyuncu Barcelona-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Atletico Madrid-1",
+          "team": "Atletico Madrid"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Barcelona-1",
+          "team": "Barcelona"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Atletico Madrid-2",
+          "team": "Atletico Madrid"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "59%",
+          "away": "45%"
+        },
+        "shots": {
+          "home": 3,
+          "away": 13
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 8
+        },
+        "corners": {
+          "home": 5,
+          "away": 4
+        },
+        "fouls": {
+          "home": 2,
+          "away": 10
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 3,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 55",
+      "stadium": "Stadyum 55",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Atletico Madrid-1 sakatlandı",
+        "Oyuncu Barcelona-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 56,
+      "homeTeam": "Leicester City",
+      "awayTeam": "Chelsea",
+      "homeLogo": "https://via.placeholder.com/50?text=Leicester%20City",
+      "awayLogo": "https://via.placeholder.com/50?text=Chelsea",
+      "score": "1-0",
+      "date": "2024-10-26",
+      "time": "01:44",
+      "tournament": "Premier League",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Leicester City-1",
+        "Oyuncu Leicester City-2",
+        "Oyuncu Leicester City-3",
+        "Oyuncu Leicester City-4",
+        "Oyuncu Leicester City-5",
+        "Oyuncu Leicester City-6",
+        "Oyuncu Leicester City-7",
+        "Oyuncu Leicester City-8",
+        "Oyuncu Leicester City-9",
+        "Oyuncu Leicester City-10",
+        "Oyuncu Leicester City-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Chelsea-1",
+        "Oyuncu Chelsea-2",
+        "Oyuncu Chelsea-3",
+        "Oyuncu Chelsea-4",
+        "Oyuncu Chelsea-5",
+        "Oyuncu Chelsea-6",
+        "Oyuncu Chelsea-7",
+        "Oyuncu Chelsea-8",
+        "Oyuncu Chelsea-9",
+        "Oyuncu Chelsea-10",
+        "Oyuncu Chelsea-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Leicester City-Sub1",
+        "Oyuncu Leicester City-Sub2",
+        "Oyuncu Leicester City-Sub3",
+        "Oyuncu Leicester City-Sub4",
+        "Oyuncu Leicester City-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Chelsea-Sub1",
+        "Oyuncu Chelsea-Sub2",
+        "Oyuncu Chelsea-Sub3",
+        "Oyuncu Chelsea-Sub4",
+        "Oyuncu Chelsea-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Leicester City-1",
+          "team": "Leicester City"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Chelsea-1",
+          "team": "Chelsea"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Leicester City-2",
+          "team": "Leicester City"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "91%",
+          "away": "46%"
+        },
+        "shots": {
+          "home": 18,
+          "away": 7
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 9
+        },
+        "corners": {
+          "home": 7,
+          "away": 13
+        },
+        "fouls": {
+          "home": 6,
+          "away": 17
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 4,
+          "away": 6
+        }
+      },
+      "referee": "Hakem 56",
+      "stadium": "Stadyum 56",
+      "weather": "Clear",
+      "criticalEvents": [
+        "Oyuncu Leicester City-1 sakatlandı",
+        "Oyuncu Chelsea-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 57,
+      "homeTeam": "Nantes",
+      "awayTeam": "Lille",
+      "homeLogo": "https://via.placeholder.com/50?text=Nantes",
+      "awayLogo": "https://via.placeholder.com/50?text=Lille",
+      "score": "1-4",
+      "date": "2024-10-27",
+      "time": "20:47",
+      "tournament": "Ligue 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Nantes-1",
+        "Oyuncu Nantes-2",
+        "Oyuncu Nantes-3",
+        "Oyuncu Nantes-4",
+        "Oyuncu Nantes-5",
+        "Oyuncu Nantes-6",
+        "Oyuncu Nantes-7",
+        "Oyuncu Nantes-8",
+        "Oyuncu Nantes-9",
+        "Oyuncu Nantes-10",
+        "Oyuncu Nantes-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Lille-1",
+        "Oyuncu Lille-2",
+        "Oyuncu Lille-3",
+        "Oyuncu Lille-4",
+        "Oyuncu Lille-5",
+        "Oyuncu Lille-6",
+        "Oyuncu Lille-7",
+        "Oyuncu Lille-8",
+        "Oyuncu Lille-9",
+        "Oyuncu Lille-10",
+        "Oyuncu Lille-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Nantes-Sub1",
+        "Oyuncu Nantes-Sub2",
+        "Oyuncu Nantes-Sub3",
+        "Oyuncu Nantes-Sub4",
+        "Oyuncu Nantes-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Lille-Sub1",
+        "Oyuncu Lille-Sub2",
+        "Oyuncu Lille-Sub3",
+        "Oyuncu Lille-Sub4",
+        "Oyuncu Lille-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Nantes-1",
+          "team": "Nantes"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Lille-1",
+          "team": "Lille"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Nantes-2",
+          "team": "Nantes"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "66%",
+          "away": "34%"
+        },
+        "shots": {
+          "home": 5,
+          "away": 13
+        },
+        "shotsOnTarget": {
+          "home": 5,
+          "away": 0
+        },
+        "corners": {
+          "home": 14,
+          "away": 11
+        },
+        "fouls": {
+          "home": 17,
+          "away": 7
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 0
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 5,
+          "away": 9
+        }
+      },
+      "referee": "Hakem 57",
+      "stadium": "Stadyum 57",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Nantes-1 sakatlandı",
+        "Oyuncu Lille-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 58,
+      "homeTeam": "Reims",
+      "awayTeam": "Marseille",
+      "homeLogo": "https://via.placeholder.com/50?text=Reims",
+      "awayLogo": "https://via.placeholder.com/50?text=Marseille",
+      "score": "3-1",
+      "date": "2024-10-28",
+      "time": "05:11",
+      "tournament": "Ligue 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Reims-1",
+        "Oyuncu Reims-2",
+        "Oyuncu Reims-3",
+        "Oyuncu Reims-4",
+        "Oyuncu Reims-5",
+        "Oyuncu Reims-6",
+        "Oyuncu Reims-7",
+        "Oyuncu Reims-8",
+        "Oyuncu Reims-9",
+        "Oyuncu Reims-10",
+        "Oyuncu Reims-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Marseille-1",
+        "Oyuncu Marseille-2",
+        "Oyuncu Marseille-3",
+        "Oyuncu Marseille-4",
+        "Oyuncu Marseille-5",
+        "Oyuncu Marseille-6",
+        "Oyuncu Marseille-7",
+        "Oyuncu Marseille-8",
+        "Oyuncu Marseille-9",
+        "Oyuncu Marseille-10",
+        "Oyuncu Marseille-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Reims-Sub1",
+        "Oyuncu Reims-Sub2",
+        "Oyuncu Reims-Sub3",
+        "Oyuncu Reims-Sub4",
+        "Oyuncu Reims-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Marseille-Sub1",
+        "Oyuncu Marseille-Sub2",
+        "Oyuncu Marseille-Sub3",
+        "Oyuncu Marseille-Sub4",
+        "Oyuncu Marseille-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Reims-1",
+          "team": "Reims"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Marseille-1",
+          "team": "Marseille"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Reims-2",
+          "team": "Reims"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "80%",
+          "away": "50%"
+        },
+        "shots": {
+          "home": 17,
+          "away": 12
+        },
+        "shotsOnTarget": {
+          "home": 2,
+          "away": 1
+        },
+        "corners": {
+          "home": 6,
+          "away": 1
+        },
+        "fouls": {
+          "home": 0,
+          "away": 10
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 4
+        },
+        "redCards": {
+          "home": 1,
+          "away": 1
+        },
+        "offsides": {
+          "home": 8,
+          "away": 0
+        }
+      },
+      "referee": "Hakem 58",
+      "stadium": "Stadyum 58",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu Reims-1 sakatlandı",
+        "Oyuncu Marseille-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 59,
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Borussia Mönchengladbach",
+      "homeLogo": "https://via.placeholder.com/50?text=VfB%20Stuttgart",
+      "awayLogo": "https://via.placeholder.com/50?text=Borussia%20M%C3%B6nchengladbach",
+      "score": "0-2",
+      "date": "2024-10-29",
+      "time": "21:45",
+      "tournament": "Bundesliga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu VfB Stuttgart-1",
+        "Oyuncu VfB Stuttgart-2",
+        "Oyuncu VfB Stuttgart-3",
+        "Oyuncu VfB Stuttgart-4",
+        "Oyuncu VfB Stuttgart-5",
+        "Oyuncu VfB Stuttgart-6",
+        "Oyuncu VfB Stuttgart-7",
+        "Oyuncu VfB Stuttgart-8",
+        "Oyuncu VfB Stuttgart-9",
+        "Oyuncu VfB Stuttgart-10",
+        "Oyuncu VfB Stuttgart-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Borussia Mönchengladbach-1",
+        "Oyuncu Borussia Mönchengladbach-2",
+        "Oyuncu Borussia Mönchengladbach-3",
+        "Oyuncu Borussia Mönchengladbach-4",
+        "Oyuncu Borussia Mönchengladbach-5",
+        "Oyuncu Borussia Mönchengladbach-6",
+        "Oyuncu Borussia Mönchengladbach-7",
+        "Oyuncu Borussia Mönchengladbach-8",
+        "Oyuncu Borussia Mönchengladbach-9",
+        "Oyuncu Borussia Mönchengladbach-10",
+        "Oyuncu Borussia Mönchengladbach-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu VfB Stuttgart-Sub1",
+        "Oyuncu VfB Stuttgart-Sub2",
+        "Oyuncu VfB Stuttgart-Sub3",
+        "Oyuncu VfB Stuttgart-Sub4",
+        "Oyuncu VfB Stuttgart-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Borussia Mönchengladbach-Sub1",
+        "Oyuncu Borussia Mönchengladbach-Sub2",
+        "Oyuncu Borussia Mönchengladbach-Sub3",
+        "Oyuncu Borussia Mönchengladbach-Sub4",
+        "Oyuncu Borussia Mönchengladbach-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu VfB Stuttgart-1",
+          "team": "VfB Stuttgart"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Borussia Mönchengladbach-1",
+          "team": "Borussia Mönchengladbach"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu VfB Stuttgart-2",
+          "team": "VfB Stuttgart"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "90%",
+          "away": "15%"
+        },
+        "shots": {
+          "home": 6,
+          "away": 15
+        },
+        "shotsOnTarget": {
+          "home": 9,
+          "away": 9
+        },
+        "corners": {
+          "home": 4,
+          "away": 11
+        },
+        "fouls": {
+          "home": 13,
+          "away": 15
+        },
+        "yellowCards": {
+          "home": 0,
+          "away": 2
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 5,
+          "away": 8
+        }
+      },
+      "referee": "Hakem 59",
+      "stadium": "Stadyum 59",
+      "weather": "Stormy",
+      "criticalEvents": [
+        "Oyuncu VfB Stuttgart-1 sakatlandı",
+        "Oyuncu Borussia Mönchengladbach-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 60,
+      "homeTeam": "Real Sociedad",
+      "awayTeam": "Atletico Madrid",
+      "homeLogo": "https://via.placeholder.com/50?text=Real%20Sociedad",
+      "awayLogo": "https://via.placeholder.com/50?text=Atletico%20Madrid",
+      "score": "2-1",
+      "date": "2024-10-30",
+      "time": "08:41",
+      "tournament": "La Liga",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Real Sociedad-1",
+        "Oyuncu Real Sociedad-2",
+        "Oyuncu Real Sociedad-3",
+        "Oyuncu Real Sociedad-4",
+        "Oyuncu Real Sociedad-5",
+        "Oyuncu Real Sociedad-6",
+        "Oyuncu Real Sociedad-7",
+        "Oyuncu Real Sociedad-8",
+        "Oyuncu Real Sociedad-9",
+        "Oyuncu Real Sociedad-10",
+        "Oyuncu Real Sociedad-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Atletico Madrid-1",
+        "Oyuncu Atletico Madrid-2",
+        "Oyuncu Atletico Madrid-3",
+        "Oyuncu Atletico Madrid-4",
+        "Oyuncu Atletico Madrid-5",
+        "Oyuncu Atletico Madrid-6",
+        "Oyuncu Atletico Madrid-7",
+        "Oyuncu Atletico Madrid-8",
+        "Oyuncu Atletico Madrid-9",
+        "Oyuncu Atletico Madrid-10",
+        "Oyuncu Atletico Madrid-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Real Sociedad-Sub1",
+        "Oyuncu Real Sociedad-Sub2",
+        "Oyuncu Real Sociedad-Sub3",
+        "Oyuncu Real Sociedad-Sub4",
+        "Oyuncu Real Sociedad-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Atletico Madrid-Sub1",
+        "Oyuncu Atletico Madrid-Sub2",
+        "Oyuncu Atletico Madrid-Sub3",
+        "Oyuncu Atletico Madrid-Sub4",
+        "Oyuncu Atletico Madrid-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Real Sociedad-1",
+          "team": "Real Sociedad"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Atletico Madrid-1",
+          "team": "Atletico Madrid"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Real Sociedad-2",
+          "team": "Real Sociedad"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "62%",
+          "away": "26%"
+        },
+        "shots": {
+          "home": 13,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 7
+        },
+        "corners": {
+          "home": 13,
+          "away": 11
+        },
+        "fouls": {
+          "home": 0,
+          "away": 12
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 4
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 8,
+          "away": 7
+        }
+      },
+      "referee": "Hakem 60",
+      "stadium": "Stadyum 60",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Real Sociedad-1 sakatlandı",
+        "Oyuncu Atletico Madrid-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 61,
+      "homeTeam": "Rennes",
+      "awayTeam": "Marseille",
+      "homeLogo": "https://via.placeholder.com/50?text=Rennes",
+      "awayLogo": "https://via.placeholder.com/50?text=Marseille",
+      "score": "0-1",
+      "date": "2024-10-1",
+      "time": "21:59",
+      "tournament": "Ligue 1",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Rennes-1",
+        "Oyuncu Rennes-2",
+        "Oyuncu Rennes-3",
+        "Oyuncu Rennes-4",
+        "Oyuncu Rennes-5",
+        "Oyuncu Rennes-6",
+        "Oyuncu Rennes-7",
+        "Oyuncu Rennes-8",
+        "Oyuncu Rennes-9",
+        "Oyuncu Rennes-10",
+        "Oyuncu Rennes-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Marseille-1",
+        "Oyuncu Marseille-2",
+        "Oyuncu Marseille-3",
+        "Oyuncu Marseille-4",
+        "Oyuncu Marseille-5",
+        "Oyuncu Marseille-6",
+        "Oyuncu Marseille-7",
+        "Oyuncu Marseille-8",
+        "Oyuncu Marseille-9",
+        "Oyuncu Marseille-10",
+        "Oyuncu Marseille-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Rennes-Sub1",
+        "Oyuncu Rennes-Sub2",
+        "Oyuncu Rennes-Sub3",
+        "Oyuncu Rennes-Sub4",
+        "Oyuncu Rennes-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Marseille-Sub1",
+        "Oyuncu Marseille-Sub2",
+        "Oyuncu Marseille-Sub3",
+        "Oyuncu Marseille-Sub4",
+        "Oyuncu Marseille-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Rennes-1",
+          "team": "Rennes"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Marseille-1",
+          "team": "Marseille"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Rennes-2",
+          "team": "Rennes"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "78%",
+          "away": "30%"
+        },
+        "shots": {
+          "home": 14,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 3,
+          "away": 6
+        },
+        "corners": {
+          "home": 13,
+          "away": 1
+        },
+        "fouls": {
+          "home": 12,
+          "away": 10
+        },
+        "yellowCards": {
+          "home": 1,
+          "away": 4
+        },
+        "redCards": {
+          "home": 0,
+          "away": 0
+        },
+        "offsides": {
+          "home": 7,
+          "away": 9
+        }
+      },
+      "referee": "Hakem 61",
+      "stadium": "Stadyum 61",
+      "weather": "Cloudy",
+      "criticalEvents": [
+        "Oyuncu Rennes-1 sakatlandı",
+        "Oyuncu Marseille-2 sarı kart gördü"
+      ]
+    },
+    {
+      "id": 62,
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Udinese",
+      "homeLogo": "https://via.placeholder.com/50?text=Fiorentina",
+      "awayLogo": "https://via.placeholder.com/50?text=Udinese",
+      "score": "3-0",
+      "date": "2024-10-2",
+      "time": "23:45",
+      "tournament": "Serie A",
+      "status": "Tamamlandı",
+      "homeLineup": [
+        "Oyuncu Fiorentina-1",
+        "Oyuncu Fiorentina-2",
+        "Oyuncu Fiorentina-3",
+        "Oyuncu Fiorentina-4",
+        "Oyuncu Fiorentina-5",
+        "Oyuncu Fiorentina-6",
+        "Oyuncu Fiorentina-7",
+        "Oyuncu Fiorentina-8",
+        "Oyuncu Fiorentina-9",
+        "Oyuncu Fiorentina-10",
+        "Oyuncu Fiorentina-11"
+      ],
+      "awayLineup": [
+        "Oyuncu Udinese-1",
+        "Oyuncu Udinese-2",
+        "Oyuncu Udinese-3",
+        "Oyuncu Udinese-4",
+        "Oyuncu Udinese-5",
+        "Oyuncu Udinese-6",
+        "Oyuncu Udinese-7",
+        "Oyuncu Udinese-8",
+        "Oyuncu Udinese-9",
+        "Oyuncu Udinese-10",
+        "Oyuncu Udinese-11"
+      ],
+      "homeSubstitutes": [
+        "Oyuncu Fiorentina-Sub1",
+        "Oyuncu Fiorentina-Sub2",
+        "Oyuncu Fiorentina-Sub3",
+        "Oyuncu Fiorentina-Sub4",
+        "Oyuncu Fiorentina-Sub5"
+      ],
+      "awaySubstitutes": [
+        "Oyuncu Udinese-Sub1",
+        "Oyuncu Udinese-Sub2",
+        "Oyuncu Udinese-Sub3",
+        "Oyuncu Udinese-Sub4",
+        "Oyuncu Udinese-Sub5"
+      ],
+      "goals": [
+        {
+          "minute": 15,
+          "player": "Oyuncu Fiorentina-1",
+          "team": "Fiorentina"
+        },
+        {
+          "minute": 45,
+          "player": "Oyuncu Udinese-1",
+          "team": "Udinese"
+        },
+        {
+          "minute": 75,
+          "player": "Oyuncu Fiorentina-2",
+          "team": "Fiorentina"
+        }
+      ],
+      "stats": {
+        "possession": {
+          "home": "66%",
+          "away": "44%"
+        },
+        "shots": {
+          "home": 3,
+          "away": 8
+        },
+        "shotsOnTarget": {
+          "home": 1,
+          "away": 2
+        },
+        "corners": {
+          "home": 7,
+          "away": 3
+        },
+        "fouls": {
+          "home": 3,
+          "away": 2
+        },
+        "yellowCards": {
+          "home": 2,
+          "away": 3
+        },
+        "redCards": {
+          "home": 0,
+          "away": 1
+        },
+        "offsides": {
+          "home": 2,
+          "away": 2
+        }
+      },
+      "referee": "Hakem 62",
+      "stadium": "Stadyum 62",
+      "weather": "Rainy",
+      "criticalEvents": [
+        "Oyuncu Fiorentina-1 sakatlandı",
+        "Oyuncu Udinese-2 sarı kart gördü"
+      ]
+    }
+  ]
+}

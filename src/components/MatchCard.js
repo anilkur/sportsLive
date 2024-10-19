@@ -1,9 +1,11 @@
+// src/components/MatchCard.js
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './MatchCard.css';  // CSS dosyasını buradan import ediyoruz
 
 const MatchCard = ({ match }) => {
   const {
+    id,
     homeTeam,
     awayTeam,
     homeLogo,
@@ -29,7 +31,7 @@ const MatchCard = ({ match }) => {
       <p>Turnuva: {tournament}</p>
       <p>Durum: {status}</p>
 
-      <Link to={`/match/${match.id}`}>
+      <Link to={`/match/${id}`}>
         <button className="details-button">Detaya Git</button>
       </Link>
     </div>

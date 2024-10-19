@@ -1,9 +1,11 @@
+// src/components/Footer.js
 import React from 'react';
+import './Footer.css'; // Footer için CSS dosyasını import ediyoruz
 
 const Footer = () => {
   return (
-    <footer style={{ backgroundColor: '#f1f1f1', padding: '1rem', textAlign: 'center' }}>
-      <p>© 2024 Spor Sonuçları - Tüm Hakları Saklıdır</p>
+    <footer className="footer">
+      <p>© 2024 Futbol Maçları. Tüm hakları saklıdır.</p>
     </footer>
   );
 };
